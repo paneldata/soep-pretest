@@ -1,3 +1,11 @@
+---
+name: soep-pretest
+label: SOEP Pretests
+config:
+    variables:
+        label-table: True
+---
+
 # SOEP-Pretest
 
 ## Citation
