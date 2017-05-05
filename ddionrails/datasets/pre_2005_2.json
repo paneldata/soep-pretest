@@ -1,0 +1,9572 @@
+{
+  "fallnr": {
+    "study": "soep-pre",
+    "name": "fallnr",
+    "name_cs": "fallnr",
+    "variable": "fallnr",
+    "dataset": "pre_2005_2",
+    "label": "Identifier Pretest 2005",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "253.8",
+        "506.5",
+        "506.5",
+        "759.2",
+        "1012",
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "jahr": {
+    "study": "soep-pre",
+    "name": "jahr",
+    "name_cs": "jahr",
+    "variable": "jahr",
+    "dataset": "pre_2005_2",
+    "label": "Year of Interview",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2005",
+        "2005",
+        "2005",
+        "2005",
+        "2005",
+        "2005",
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "sex": {
+    "study": "soep-pre",
+    "name": "sex",
+    "name_cs": "sex",
+    "variable": "sex",
+    "dataset": "pre_2005_2",
+    "label": "Gender",
+    "categories": {
+      "frequencies": [
+        469,
+        543
+      ],
+      "labels": [
+        "Male",
+        "Female"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "gebdat": {
+    "study": "soep-pre",
+    "name": "gebdat",
+    "name_cs": "gebdat",
+    "variable": "gebdat",
+    "dataset": "pre_2005_2",
+    "label": "Year of Birth",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "-1",
+        "1941",
+        "1959",
+        "1956",
+        "1971",
+        "1991",
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "f00101": {
+    "study": "soep-pre",
+    "name": "f00101",
+    "name_cs": "f00101",
+    "variable": "f00101",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Health",
+    "categories": {
+      "frequencies": [
+        0,
+        12,
+        14,
+        24,
+        40,
+        32,
+        137,
+        61,
+        121,
+        250,
+        152,
+        169
+      ],
+      "labels": [
+        "No answer",
+        "0 = Totally unhappy",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Totally happy"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f00102": {
+    "study": "soep-pre",
+    "name": "f00102",
+    "name_cs": "f00102",
+    "variable": "f00102",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Job",
+    "categories": {
+      "frequencies": [
+        522,
+        2,
+        15,
+        6,
+        11,
+        16,
+        8,
+        50,
+        32,
+        62,
+        122,
+        68,
+        98
+      ],
+      "labels": [
+        "Does not apply",
+        "No answer",
+        "0 = Totally unhappy",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Totally happy"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f00103": {
+    "study": "soep-pre",
+    "name": "f00103",
+    "name_cs": "f00103",
+    "variable": "f00103",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: HH Function/Role in HH",
+    "categories": {
+      "frequencies": [
+        9,
+        7,
+        3,
+        111,
+        22,
+        219,
+        24,
+        38,
+        119,
+        83,
+        125,
+        175,
+        77
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f00104": {
+    "study": "soep-pre",
+    "name": "f00104",
+    "name_cs": "f00104",
+    "variable": "f00104",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: HH Income",
+    "categories": {
+      "frequencies": [
+        6,
+        29,
+        33,
+        41,
+        62,
+        68,
+        158,
+        104,
+        159,
+        172,
+        93,
+        87
+      ],
+      "labels": [
+        "No answer",
+        "0 = Totally unhappy",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Totally happy"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f00105": {
+    "study": "soep-pre",
+    "name": "f00105",
+    "name_cs": "f00105",
+    "variable": "f00105",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Personal Income",
+    "categories": {
+      "frequencies": [
+        14,
+        54,
+        60,
+        51,
+        77,
+        71,
+        142,
+        92,
+        137,
+        171,
+        66,
+        77
+      ],
+      "labels": [
+        "No answer",
+        "0 = Totally unhappy",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Totally happy"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f00106": {
+    "study": "soep-pre",
+    "name": "f00106",
+    "name_cs": "f00106",
+    "variable": "f00106",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Domicile",
+    "categories": {
+      "frequencies": [
+        0,
+        6,
+        6,
+        14,
+        15,
+        22,
+        78,
+        51,
+        94,
+        204,
+        187,
+        335
+      ],
+      "labels": [
+        "No answer",
+        "0 = Totally unhappy",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Totally happy"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f00107": {
+    "study": "soep-pre",
+    "name": "f00107",
+    "name_cs": "f00107",
+    "variable": "f00107",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Spare Time",
+    "categories": {
+      "frequencies": [
+        0,
+        5,
+        10,
+        20,
+        30,
+        41,
+        101,
+        87,
+        108,
+        241,
+        149,
+        220
+      ],
+      "labels": [
+        "No answer",
+        "0 = Totally unhappy",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Totally happy"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f00108": {
+    "study": "soep-pre",
+    "name": "f00108",
+    "name_cs": "f00108",
+    "variable": "f00108",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Child Care Possibilities",
+    "categories": {
+      "frequencies": [
+        854,
+        1,
+        16,
+        3,
+        5,
+        4,
+        7,
+        9,
+        11,
+        12,
+        27,
+        23,
+        40
+      ],
+      "labels": [
+        "Does not apply",
+        "No answer",
+        "0 = Totally unhappy",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Totally happy"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f00109": {
+    "study": "soep-pre",
+    "name": "f00109",
+    "name_cs": "f00109",
+    "variable": "f00109",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Standard of Living",
+    "categories": {
+      "frequencies": [
+        2,
+        4,
+        7,
+        15,
+        23,
+        33,
+        101,
+        89,
+        201,
+        261,
+        138,
+        138
+      ],
+      "labels": [
+        "No answer",
+        "0 = Totally unhappy",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Totally happy"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f00110": {
+    "study": "soep-pre",
+    "name": "f00110",
+    "name_cs": "f00110",
+    "variable": "f00110",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with Friends and Aquaintances",
+    "categories": {
+      "frequencies": [
+        1,
+        4,
+        10,
+        13,
+        20,
+        21,
+        67,
+        77,
+        129,
+        244,
+        181,
+        245
+      ],
+      "labels": [
+        "No answer",
+        "0 = Totally unhappy",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Totally happy"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f00111": {
+    "study": "soep-pre",
+    "name": "f00111",
+    "name_cs": "f00111",
+    "variable": "f00111",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Security In Area Where Living",
+    "categories": {
+      "frequencies": [
+        3,
+        3,
+        3,
+        7,
+        21,
+        29,
+        50,
+        51,
+        110,
+        230,
+        234,
+        271
+      ],
+      "labels": [
+        "No answer",
+        "0 = Totally unhappy",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Totally happy"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f002": {
+    "study": "soep-pre",
+    "name": "f002",
+    "name_cs": "f002",
+    "variable": "f002",
+    "dataset": "pre_2005_2",
+    "label": "Current Mood",
+    "categories": {
+      "frequencies": [
+        1,
+        5,
+        8,
+        19,
+        30,
+        44,
+        117,
+        112,
+        179,
+        269,
+        117,
+        111
+      ],
+      "labels": [
+        "No answer",
+        "Absolutely bad",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "Absolutely good"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f01801": {
+    "study": "soep-pre",
+    "name": "f01801",
+    "name_cs": "f01801",
+    "variable": "f01801",
+    "dataset": "pre_2005_2",
+    "label": "On The Whole Trust People",
+    "categories": {
+      "frequencies": [
+        19,
+        86,
+        576,
+        313,
+        18
+      ],
+      "labels": [
+        "No answer",
+        "Totally agree",
+        "Agree slightly",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f01802": {
+    "study": "soep-pre",
+    "name": "f01802",
+    "name_cs": "f01802",
+    "variable": "f01802",
+    "dataset": "pre_2005_2",
+    "label": "Nowadays Can",
+    "categories": {
+      "frequencies": [
+        5,
+        80,
+        286,
+        513,
+        128
+      ],
+      "labels": [
+        "No answer",
+        "Totally agree",
+        "Agree slightly",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f01803": {
+    "study": "soep-pre",
+    "name": "f01803",
+    "name_cs": "f01803",
+    "variable": "f01803",
+    "dataset": "pre_2005_2",
+    "label": "Caution Towards Foreigners",
+    "categories": {
+      "frequencies": [
+        6,
+        436,
+        457,
+        94,
+        19
+      ],
+      "labels": [
+        "No answer",
+        "Totally agree",
+        "Agree slightly",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f01804": {
+    "study": "soep-pre",
+    "name": "f01804",
+    "name_cs": "f01804",
+    "variable": "f01804",
+    "dataset": "pre_2005_2",
+    "label": "Confident About Future",
+    "categories": {
+      "frequencies": [
+        6,
+        187,
+        432,
+        317,
+        70
+      ],
+      "labels": [
+        "No answer",
+        "Totally agree",
+        "Agree slightly",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f01805": {
+    "study": "soep-pre",
+    "name": "f01805",
+    "name_cs": "f01805",
+    "variable": "f01805",
+    "dataset": "pre_2005_2",
+    "label": "To Feel Lonley",
+    "categories": {
+      "frequencies": [
+        6,
+        51,
+        110,
+        308,
+        537
+      ],
+      "labels": [
+        "No answer",
+        "Totally agree",
+        "Agree slightly",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f01806": {
+    "study": "soep-pre",
+    "name": "f01806",
+    "name_cs": "f01806",
+    "variable": "f01806",
+    "dataset": "pre_2005_2",
+    "label": "Do Not Enjoy Work",
+    "categories": {
+      "frequencies": [
+        162,
+        22,
+        104,
+        250,
+        474
+      ],
+      "labels": [
+        "No answer",
+        "Totally agree",
+        "Agree slightly",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f01807": {
+    "study": "soep-pre",
+    "name": "f01807",
+    "name_cs": "f01807",
+    "variable": "f01807",
+    "dataset": "pre_2005_2",
+    "label": "Barely Able To Cope With Things",
+    "categories": {
+      "frequencies": [
+        11,
+        48,
+        157,
+        356,
+        440
+      ],
+      "labels": [
+        "No answer",
+        "Totally agree",
+        "Agree slightly",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f019": {
+    "study": "soep-pre",
+    "name": "f019",
+    "name_cs": "f019",
+    "variable": "f019",
+    "dataset": "pre_2005_2",
+    "label": "Personal Willingness To Take Risks",
+    "categories": {
+      "frequencies": [
+        0,
+        64,
+        50,
+        86,
+        108,
+        95,
+        214,
+        100,
+        143,
+        88,
+        39,
+        25
+      ],
+      "labels": [
+        "No answer",
+        "0 = Risk averse",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Fully prepared to take risks"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02201": {
+    "study": "soep-pre",
+    "name": "f02201",
+    "name_cs": "f02201",
+    "variable": "f02201",
+    "dataset": "pre_2005_2",
+    "label": "Thorough Worker",
+    "categories": {
+      "frequencies": [
+        6,
+        1,
+        8,
+        17,
+        37,
+        130,
+        297,
+        516
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02202": {
+    "study": "soep-pre",
+    "name": "f02202",
+    "name_cs": "f02202",
+    "variable": "f02202",
+    "dataset": "pre_2005_2",
+    "label": "Am Communicative",
+    "categories": {
+      "frequencies": [
+        0,
+        3,
+        23,
+        49,
+        116,
+        204,
+        267,
+        350
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02203": {
+    "study": "soep-pre",
+    "name": "f02203",
+    "name_cs": "f02203",
+    "variable": "f02203",
+    "dataset": "pre_2005_2",
+    "label": "Am Sometimes Too Coarse With Others",
+    "categories": {
+      "frequencies": [
+        1,
+        222,
+        235,
+        146,
+        143,
+        142,
+        84,
+        39
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02204": {
+    "study": "soep-pre",
+    "name": "f02204",
+    "name_cs": "f02204",
+    "variable": "f02204",
+    "dataset": "pre_2005_2",
+    "label": "Am Original",
+    "categories": {
+      "frequencies": [
+        4,
+        22,
+        42,
+        108,
+        239,
+        242,
+        210,
+        145
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02205": {
+    "study": "soep-pre",
+    "name": "f02205",
+    "name_cs": "f02205",
+    "variable": "f02205",
+    "dataset": "pre_2005_2",
+    "label": "Worry A Lot",
+    "categories": {
+      "frequencies": [
+        3,
+        50,
+        107,
+        97,
+        179,
+        205,
+        192,
+        179
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02206": {
+    "study": "soep-pre",
+    "name": "f02206",
+    "name_cs": "f02206",
+    "variable": "f02206",
+    "dataset": "pre_2005_2",
+    "label": "Able To Forgive",
+    "categories": {
+      "frequencies": [
+        2,
+        6,
+        20,
+        51,
+        97,
+        174,
+        329,
+        333
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02207": {
+    "study": "soep-pre",
+    "name": "f02207",
+    "name_cs": "f02207",
+    "variable": "f02207",
+    "dataset": "pre_2005_2",
+    "label": "Tend To Be Lazy",
+    "categories": {
+      "frequencies": [
+        6,
+        408,
+        224,
+        119,
+        104,
+        90,
+        41,
+        20
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02208": {
+    "study": "soep-pre",
+    "name": "f02208",
+    "name_cs": "f02208",
+    "variable": "f02208",
+    "dataset": "pre_2005_2",
+    "label": "Am Sociable",
+    "categories": {
+      "frequencies": [
+        1,
+        8,
+        40,
+        86,
+        162,
+        206,
+        255,
+        254
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02209": {
+    "study": "soep-pre",
+    "name": "f02209",
+    "name_cs": "f02209",
+    "variable": "f02209",
+    "dataset": "pre_2005_2",
+    "label": "Value Artistic Experiences",
+    "categories": {
+      "frequencies": [
+        11,
+        79,
+        104,
+        108,
+        154,
+        159,
+        171,
+        226
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02210": {
+    "study": "soep-pre",
+    "name": "f02210",
+    "name_cs": "f02210",
+    "variable": "f02210",
+    "dataset": "pre_2005_2",
+    "label": "Somewhat Nervous",
+    "categories": {
+      "frequencies": [
+        0,
+        134,
+        194,
+        147,
+        179,
+        162,
+        128,
+        68
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02211": {
+    "study": "soep-pre",
+    "name": "f02211",
+    "name_cs": "f02211",
+    "variable": "f02211",
+    "dataset": "pre_2005_2",
+    "label": "Carry Out Tasks Efficiently",
+    "categories": {
+      "frequencies": [
+        7,
+        2,
+        6,
+        22,
+        73,
+        226,
+        355,
+        321
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02212": {
+    "study": "soep-pre",
+    "name": "f02212",
+    "name_cs": "f02212",
+    "variable": "f02212",
+    "dataset": "pre_2005_2",
+    "label": "Reserved",
+    "categories": {
+      "frequencies": [
+        2,
+        69,
+        117,
+        145,
+        242,
+        193,
+        165,
+        79
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02213": {
+    "study": "soep-pre",
+    "name": "f02213",
+    "name_cs": "f02213",
+    "variable": "f02213",
+    "dataset": "pre_2005_2",
+    "label": "Friendly With Others",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        6,
+        16,
+        82,
+        193,
+        346,
+        369
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02214": {
+    "study": "soep-pre",
+    "name": "f02214",
+    "name_cs": "f02214",
+    "variable": "f02214",
+    "dataset": "pre_2005_2",
+    "label": "Have Lively Imagination",
+    "categories": {
+      "frequencies": [
+        11,
+        21,
+        39,
+        99,
+        184,
+        208,
+        222,
+        228
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02215": {
+    "study": "soep-pre",
+    "name": "f02215",
+    "name_cs": "f02215",
+    "variable": "f02215",
+    "dataset": "pre_2005_2",
+    "label": "Deal Well With Stress",
+    "categories": {
+      "frequencies": [
+        6,
+        27,
+        74,
+        88,
+        205,
+        234,
+        207,
+        171
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02301": {
+    "study": "soep-pre",
+    "name": "f02301",
+    "name_cs": "f02301",
+    "variable": "f02301",
+    "dataset": "pre_2005_2",
+    "label": "Return Favors",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        2,
+        8,
+        22,
+        80,
+        239,
+        661
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02302": {
+    "study": "soep-pre",
+    "name": "f02302",
+    "name_cs": "f02302",
+    "variable": "f02302",
+    "dataset": "pre_2005_2",
+    "label": "Get Revenge For Severe Injustices",
+    "categories": {
+      "frequencies": [
+        5,
+        203,
+        198,
+        186,
+        157,
+        109,
+        68,
+        86
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02303": {
+    "study": "soep-pre",
+    "name": "f02303",
+    "name_cs": "f02303",
+    "variable": "f02303",
+    "dataset": "pre_2005_2",
+    "label": "Cause Similar Problems to Those Who Cause Me Problems",
+    "categories": {
+      "frequencies": [
+        3,
+        268,
+        218,
+        173,
+        161,
+        107,
+        49,
+        33
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02304": {
+    "study": "soep-pre",
+    "name": "f02304",
+    "name_cs": "f02304",
+    "variable": "f02304",
+    "dataset": "pre_2005_2",
+    "label": "Help Those Who Help Me",
+    "categories": {
+      "frequencies": [
+        12,
+        3,
+        8,
+        15,
+        60,
+        138,
+        298,
+        478
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02305": {
+    "study": "soep-pre",
+    "name": "f02305",
+    "name_cs": "f02305",
+    "variable": "f02305",
+    "dataset": "pre_2005_2",
+    "label": "Insult Those Who Insult Me",
+    "categories": {
+      "frequencies": [
+        4,
+        183,
+        216,
+        159,
+        168,
+        122,
+        89,
+        71
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02306": {
+    "study": "soep-pre",
+    "name": "f02306",
+    "name_cs": "f02306",
+    "variable": "f02306",
+    "dataset": "pre_2005_2",
+    "label": "Help Those Who Have Helped Me In the Past",
+    "categories": {
+      "frequencies": [
+        7,
+        16,
+        32,
+        50,
+        136,
+        195,
+        281,
+        295
+      ],
+      "labels": [
+        "No answer",
+        "1 = Strongly disagree",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02401": {
+    "study": "soep-pre",
+    "name": "f02401",
+    "name_cs": "f02401",
+    "variable": "f02401",
+    "dataset": "pre_2005_2",
+    "label": "My Lifes Course Depends On Me",
+    "categories": {
+      "frequencies": [
+        0,
+        16,
+        21,
+        27,
+        113,
+        190,
+        248,
+        397
+      ],
+      "labels": [
+        "No answer",
+        "1 = Disagree completely",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02402": {
+    "study": "soep-pre",
+    "name": "f02402",
+    "name_cs": "f02402",
+    "variable": "f02402",
+    "dataset": "pre_2005_2",
+    "label": "Haven",
+    "categories": {
+      "frequencies": [
+        28,
+        212,
+        211,
+        117,
+        173,
+        130,
+        90,
+        51
+      ],
+      "labels": [
+        "No answer",
+        "1 = Disagree completely",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02403": {
+    "study": "soep-pre",
+    "name": "f02403",
+    "name_cs": "f02403",
+    "variable": "f02403",
+    "dataset": "pre_2005_2",
+    "label": "What You Achieve Depends On Luck",
+    "categories": {
+      "frequencies": [
+        2,
+        138,
+        166,
+        146,
+        194,
+        151,
+        121,
+        94
+      ],
+      "labels": [
+        "No answer",
+        "1 = Disagree completely",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02404": {
+    "study": "soep-pre",
+    "name": "f02404",
+    "name_cs": "f02404",
+    "variable": "f02404",
+    "dataset": "pre_2005_2",
+    "label": "Influence On Social Conditions Through Involvement",
+    "categories": {
+      "frequencies": [
+        36,
+        137,
+        140,
+        139,
+        200,
+        155,
+        122,
+        83
+      ],
+      "labels": [
+        "No answer",
+        "1 = Disagree completely",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02405": {
+    "study": "soep-pre",
+    "name": "f02405",
+    "name_cs": "f02405",
+    "variable": "f02405",
+    "dataset": "pre_2005_2",
+    "label": "Others make the crucial decisions in my life",
+    "categories": {
+      "frequencies": [
+        5,
+        265,
+        245,
+        143,
+        133,
+        119,
+        60,
+        42
+      ],
+      "labels": [
+        "No answer",
+        "1 = Disagree completely",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02406": {
+    "study": "soep-pre",
+    "name": "f02406",
+    "name_cs": "f02406",
+    "variable": "f02406",
+    "dataset": "pre_2005_2",
+    "label": "Success Takes Hard Work",
+    "categories": {
+      "frequencies": [
+        6,
+        6,
+        5,
+        17,
+        46,
+        154,
+        277,
+        501
+      ],
+      "labels": [
+        "No answer",
+        "1 = Disagree completely",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02407": {
+    "study": "soep-pre",
+    "name": "f02407",
+    "name_cs": "f02407",
+    "variable": "f02407",
+    "dataset": "pre_2005_2",
+    "label": "Doubt My Abilities When Problems Arise",
+    "categories": {
+      "frequencies": [
+        6,
+        186,
+        215,
+        193,
+        161,
+        146,
+        67,
+        38
+      ],
+      "labels": [
+        "No answer",
+        "1 = Disagree completely",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02408": {
+    "study": "soep-pre",
+    "name": "f02408",
+    "name_cs": "f02408",
+    "variable": "f02408",
+    "dataset": "pre_2005_2",
+    "label": "Possibilities Are Defined By Social Conditions",
+    "categories": {
+      "frequencies": [
+        12,
+        33,
+        85,
+        117,
+        230,
+        246,
+        175,
+        114
+      ],
+      "labels": [
+        "No answer",
+        "1 = Disagree completely",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02409": {
+    "study": "soep-pre",
+    "name": "f02409",
+    "name_cs": "f02409",
+    "variable": "f02409",
+    "dataset": "pre_2005_2",
+    "label": "Abilities Are More Important Than Effort",
+    "categories": {
+      "frequencies": [
+        10,
+        13,
+        35,
+        79,
+        208,
+        257,
+        236,
+        174
+      ],
+      "labels": [
+        "No answer",
+        "1 = Disagree completely",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02410": {
+    "study": "soep-pre",
+    "name": "f02410",
+    "name_cs": "f02410",
+    "variable": "f02410",
+    "dataset": "pre_2005_2",
+    "label": "Litte Control Over My Life",
+    "categories": {
+      "frequencies": [
+        6,
+        268,
+        316,
+        162,
+        109,
+        76,
+        46,
+        29
+      ],
+      "labels": [
+        "No answer",
+        "1 = Disagree completely",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02411": {
+    "study": "soep-pre",
+    "name": "f02411",
+    "name_cs": "f02411",
+    "variable": "f02411",
+    "dataset": "pre_2005_2",
+    "label": "I Always Try To Have Some Money Set Aside For Unexpected Expenses",
+    "categories": {
+      "frequencies": [
+        11,
+        49,
+        57,
+        55,
+        78,
+        130,
+        211,
+        421
+      ],
+      "labels": [
+        "No answer",
+        "1 = Disagree completely",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f02601": {
+    "study": "soep-pre",
+    "name": "f02601",
+    "name_cs": "f02601",
+    "variable": "f02601",
+    "dataset": "pre_2005_2",
+    "label": "Church, Religion",
+    "categories": {
+      "frequencies": [
+        1,
+        330,
+        345,
+        31,
+        21,
+        5,
+        279
+      ],
+      "labels": [
+        "No answer",
+        "Catholic",
+        "Protestant",
+        "A member of a different Christian denomination or religious community",
+        "A member of an Islamic religious community",
+        "A member of another religious community",
+        "No, I am not a member of a religious community"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f036": {
+    "study": "soep-pre",
+    "name": "f036",
+    "name_cs": "f036",
+    "variable": "f036",
+    "dataset": "pre_2005_2",
+    "label": "Gainfully Employed",
+    "categories": {
+      "frequencies": [
+        304,
+        99,
+        23,
+        30,
+        10,
+        0,
+        2,
+        544
+      ],
+      "labels": [
+        "Full-time employed",
+        "Part-time employed",
+        "In occupational / professional education or retraining",
+        "Marginally (\"geringf\u00fcgig\") or irregularly employed",
+        "In partial retirement with zero working hours",
+        "Doing compulsory military service",
+        "Doing community service as substitute for compulsory military service (\"Zivildie",
+        "Not employed"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f065": {
+    "study": "soep-pre",
+    "name": "f065",
+    "name_cs": "f065",
+    "variable": "f065",
+    "dataset": "pre_2005_2",
+    "label": "Current Health Status",
+    "categories": {
+      "frequencies": [
+        1,
+        179,
+        413,
+        267,
+        124,
+        28
+      ],
+      "labels": [
+        "No answer",
+        "Very good",
+        "Good",
+        "Satisfactory",
+        "Poor",
+        "Bad"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f08401": {
+    "study": "soep-pre",
+    "name": "f08401",
+    "name_cs": "f08401",
+    "variable": "f08401",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Be Able To Afford Sth.",
+    "categories": {
+      "frequencies": [
+        4,
+        10,
+        24,
+        60,
+        143,
+        236,
+        292,
+        243
+      ],
+      "labels": [
+        "No answer",
+        "1 not at all important",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f08402": {
+    "study": "soep-pre",
+    "name": "f08402",
+    "name_cs": "f08402",
+    "variable": "f08402",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Help Others",
+    "categories": {
+      "frequencies": [
+        2,
+        2,
+        12,
+        22,
+        74,
+        219,
+        354,
+        327
+      ],
+      "labels": [
+        "No answer",
+        "1 not at all important",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f08403": {
+    "study": "soep-pre",
+    "name": "f08403",
+    "name_cs": "f08403",
+    "variable": "f08403",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Fulfill Once Potential",
+    "categories": {
+      "frequencies": [
+        21,
+        17,
+        24,
+        51,
+        135,
+        215,
+        293,
+        256
+      ],
+      "labels": [
+        "No answer",
+        "1 not at all important",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f08404": {
+    "study": "soep-pre",
+    "name": "f08404",
+    "name_cs": "f08404",
+    "variable": "f08404",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Have Success In The Job",
+    "categories": {
+      "frequencies": [
+        94,
+        57,
+        27,
+        26,
+        82,
+        179,
+        269,
+        278
+      ],
+      "labels": [
+        "No answer",
+        "1 not at all important",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f08405": {
+    "study": "soep-pre",
+    "name": "f08405",
+    "name_cs": "f08405",
+    "variable": "f08405",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Have An Own House",
+    "categories": {
+      "frequencies": [
+        8,
+        104,
+        81,
+        87,
+        131,
+        123,
+        172,
+        306
+      ],
+      "labels": [
+        "No answer",
+        "1 not at all important",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f08406": {
+    "study": "soep-pre",
+    "name": "f08406",
+    "name_cs": "f08406",
+    "variable": "f08406",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Have A Happy Marriage",
+    "categories": {
+      "frequencies": [
+        22,
+        27,
+        15,
+        18,
+        36,
+        46,
+        160,
+        688
+      ],
+      "labels": [
+        "No answer",
+        "1 not at all important",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f08407": {
+    "study": "soep-pre",
+    "name": "f08407",
+    "name_cs": "f08407",
+    "variable": "f08407",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Have Children",
+    "categories": {
+      "frequencies": [
+        27,
+        58,
+        35,
+        28,
+        56,
+        90,
+        158,
+        560
+      ],
+      "labels": [
+        "No answer",
+        "1 not at all important",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f08408": {
+    "study": "soep-pre",
+    "name": "f08408",
+    "name_cs": "f08408",
+    "variable": "f08408",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Be Socially And Politically Active",
+    "categories": {
+      "frequencies": [
+        26,
+        203,
+        170,
+        163,
+        199,
+        140,
+        76,
+        35
+      ],
+      "labels": [
+        "No answer",
+        "1 not at all important",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f08409": {
+    "study": "soep-pre",
+    "name": "f08409",
+    "name_cs": "f08409",
+    "variable": "f08409",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To See The World, Travel A Lot",
+    "categories": {
+      "frequencies": [
+        9,
+        66,
+        72,
+        103,
+        165,
+        217,
+        192,
+        188
+      ],
+      "labels": [
+        "No answer",
+        "1 not at all important",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "f103": {
+    "study": "soep-pre",
+    "name": "f103",
+    "name_cs": "f103",
+    "variable": "f103",
+    "dataset": "pre_2005_2",
+    "label": "General Satisfaction with Life Now",
+    "categories": {
+      "frequencies": [
+        2,
+        7,
+        6,
+        3,
+        14,
+        14,
+        85,
+        76,
+        187,
+        306,
+        164,
+        148
+      ],
+      "labels": [
+        "No answer",
+        "0 = Completely dissatisfied",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10 = Completely satisfied"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "intnum": {
+    "study": "soep-pre",
+    "name": "intnum",
+    "name_cs": "intnum",
+    "variable": "intnum",
+    "dataset": "pre_2005_2",
+    "label": "Interviewer Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1325",
+        "214800",
+        "262500",
+        "236200",
+        "282400",
+        "291500",
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "f105": {
+    "study": "soep-pre",
+    "name": "f105",
+    "name_cs": "f105",
+    "variable": "f105",
+    "dataset": "pre_2005_2",
+    "label": "Participate in Additional Survey in 6 Weeks (Y/N)",
+    "categories": {
+      "frequencies": [
+        38,
+        784,
+        190
+      ],
+      "labels": [
+        "No answer",
+        "Yes",
+        "No"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-1",
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "fadauer": {
+    "study": "soep-pre",
+    "name": "fadauer",
+    "name_cs": "fadauer",
+    "variable": "fadauer",
+    "dataset": "pre_2005_2",
+    "label": "Length Oral Interview (Minutes)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "46.5",
+        "60",
+        "60.57",
+        "70",
+        "230",
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "pdatt": {
+    "study": "soep-pre",
+    "name": "pdatt",
+    "name_cs": "pdatt",
+    "variable": "pdatt",
+    "dataset": "pre_2005_2",
+    "label": "Day Of The Interview",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "17",
+        "22",
+        "20.23",
+        "27",
+        "30",
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "pdatm": {
+    "study": "soep-pre",
+    "name": "pdatm",
+    "name_cs": "pdatm",
+    "variable": "pdatm",
+    "dataset": "pre_2005_2",
+    "label": "Month Of The Interview",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "6",
+        "6",
+        "6",
+        "6.128",
+        "6",
+        "7",
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "auswahl": {
+    "study": "soep-pre",
+    "name": "auswahl",
+    "name_cs": "auswahl",
+    "variable": "auswahl",
+    "dataset": "pre_2005_2",
+    "label": "Selection Sub-Sample Retest of Pretest 2005 Within 5 Weeks",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "2",
+        "1.698",
+        "2",
+        "2",
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "n00101": {
+    "study": "soep-pre",
+    "name": "n00101",
+    "name_cs": "n00101",
+    "variable": "n00101",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Health",
+    "categories": {
+      "frequencies": [
+        1,
+        4,
+        0,
+        25,
+        6,
+        818,
+        4,
+        4,
+        27,
+        16,
+        29,
+        50,
+        28
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n00102": {
+    "study": "soep-pre",
+    "name": "n00102",
+    "name_cs": "n00102",
+    "variable": "n00102",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Job",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        0,
+        12,
+        1,
+        107,
+        818,
+        1,
+        3,
+        8,
+        8,
+        13,
+        27,
+        12
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        "Does not apply",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        "-2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n00103": {
+    "study": "soep-pre",
+    "name": "n00103",
+    "name_cs": "n00103",
+    "variable": "n00103",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: HH Function/Role in HH",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        0,
+        19,
+        3,
+        31,
+        818,
+        3,
+        7,
+        17,
+        19,
+        34,
+        40,
+        19
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        "-2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        "-2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n00104": {
+    "study": "soep-pre",
+    "name": "n00104",
+    "name_cs": "n00104",
+    "variable": "n00104",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: HH Income",
+    "categories": {
+      "frequencies": [
+        7,
+        5,
+        0,
+        8,
+        3,
+        818,
+        14,
+        9,
+        37,
+        27,
+        28,
+        40,
+        16
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n00105": {
+    "study": "soep-pre",
+    "name": "n00105",
+    "name_cs": "n00105",
+    "variable": "n00105",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Personal Income",
+    "categories": {
+      "frequencies": [
+        14,
+        6,
+        5,
+        10,
+        10,
+        818,
+        14,
+        10,
+        30,
+        20,
+        32,
+        30,
+        13
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n00106": {
+    "study": "soep-pre",
+    "name": "n00106",
+    "name_cs": "n00106",
+    "variable": "n00106",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Domicile",
+    "categories": {
+      "frequencies": [
+        0,
+        1,
+        0,
+        55,
+        1,
+        818,
+        2,
+        6,
+        8,
+        12,
+        10,
+        56,
+        43
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n00107": {
+    "study": "soep-pre",
+    "name": "n00107",
+    "name_cs": "n00107",
+    "variable": "n00107",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Spare Time",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        0,
+        42,
+        6,
+        818,
+        2,
+        7,
+        14,
+        9,
+        33,
+        44,
+        36
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n00108": {
+    "study": "soep-pre",
+    "name": "n00108",
+    "name_cs": "n00108",
+    "variable": "n00108",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Child Care Possibilities",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        2,
+        3,
+        1,
+        174,
+        818,
+        1,
+        2,
+        3,
+        3,
+        1,
+        2,
+        2
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        "Does not apply",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        "-2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n00109": {
+    "study": "soep-pre",
+    "name": "n00109",
+    "name_cs": "n00109",
+    "variable": "n00109",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Standard of Living",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        0,
+        18,
+        1,
+        818,
+        6,
+        2,
+        20,
+        14,
+        40,
+        62,
+        30
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n00110": {
+    "study": "soep-pre",
+    "name": "n00110",
+    "name_cs": "n00110",
+    "variable": "n00110",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with Friends and Aquaintances",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        1,
+        37,
+        1,
+        818,
+        5,
+        6,
+        12,
+        11,
+        30,
+        55,
+        35
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n00111": {
+    "study": "soep-pre",
+    "name": "n00111",
+    "name_cs": "n00111",
+    "variable": "n00111",
+    "dataset": "pre_2005_2",
+    "label": "Satisfaction with: Security In Area Where Living",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        0,
+        37,
+        1,
+        818,
+        2,
+        2,
+        11,
+        16,
+        19,
+        57,
+        48
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n002": {
+    "study": "soep-pre",
+    "name": "n002",
+    "name_cs": "n002",
+    "variable": "n002",
+    "dataset": "pre_2005_2",
+    "label": "Current Mood",
+    "categories": {
+      "frequencies": [
+        1,
+        2,
+        0,
+        27,
+        5,
+        818,
+        6,
+        5,
+        17,
+        17,
+        35,
+        53,
+        26
+      ],
+      "labels": [
+        "Absolutely bad",
+        "1",
+        "No answer",
+        "Absolutely good",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n01801": {
+    "study": "soep-pre",
+    "name": "n01801",
+    "name_cs": "n01801",
+    "variable": "n01801",
+    "dataset": "pre_2005_2",
+    "label": "On The Whole Trust People",
+    "categories": {
+      "frequencies": [
+        11,
+        0,
+        131,
+        818,
+        46,
+        6
+      ],
+      "labels": [
+        "Totally agree",
+        "No answer",
+        "Agree slightly",
+        ".",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n01802": {
+    "study": "soep-pre",
+    "name": "n01802",
+    "name_cs": "n01802",
+    "variable": "n01802",
+    "dataset": "pre_2005_2",
+    "label": "Nowadays Can",
+    "categories": {
+      "frequencies": [
+        10,
+        0,
+        43,
+        818,
+        117,
+        24
+      ],
+      "labels": [
+        "Totally agree",
+        "No answer",
+        "Agree slightly",
+        ".",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n01803": {
+    "study": "soep-pre",
+    "name": "n01803",
+    "name_cs": "n01803",
+    "variable": "n01803",
+    "dataset": "pre_2005_2",
+    "label": "Caution Towards Foreigners",
+    "categories": {
+      "frequencies": [
+        82,
+        0,
+        98,
+        818,
+        12,
+        2
+      ],
+      "labels": [
+        "Totally agree",
+        "No answer",
+        "Agree slightly",
+        ".",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n01804": {
+    "study": "soep-pre",
+    "name": "n01804",
+    "name_cs": "n01804",
+    "variable": "n01804",
+    "dataset": "pre_2005_2",
+    "label": "Confident About Future",
+    "categories": {
+      "frequencies": [
+        44,
+        0,
+        101,
+        818,
+        37,
+        12
+      ],
+      "labels": [
+        "Totally agree",
+        "No answer",
+        "Agree slightly",
+        ".",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n01805": {
+    "study": "soep-pre",
+    "name": "n01805",
+    "name_cs": "n01805",
+    "variable": "n01805",
+    "dataset": "pre_2005_2",
+    "label": "To Feel Lonley",
+    "categories": {
+      "frequencies": [
+        9,
+        1,
+        16,
+        818,
+        64,
+        104
+      ],
+      "labels": [
+        "Totally agree",
+        "No answer",
+        "Agree slightly",
+        ".",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n01806": {
+    "study": "soep-pre",
+    "name": "n01806",
+    "name_cs": "n01806",
+    "variable": "n01806",
+    "dataset": "pre_2005_2",
+    "label": "Do Not Enjoy Work",
+    "categories": {
+      "frequencies": [
+        7,
+        21,
+        16,
+        818,
+        58,
+        92
+      ],
+      "labels": [
+        "Totally agree",
+        "No answer",
+        "Agree slightly",
+        ".",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n01807": {
+    "study": "soep-pre",
+    "name": "n01807",
+    "name_cs": "n01807",
+    "variable": "n01807",
+    "dataset": "pre_2005_2",
+    "label": "Barely Able To Cope With Things",
+    "categories": {
+      "frequencies": [
+        9,
+        0,
+        22,
+        818,
+        62,
+        101
+      ],
+      "labels": [
+        "Totally agree",
+        "No answer",
+        "Agree slightly",
+        ".",
+        "Disagree slightly",
+        "Totally disagree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n019": {
+    "study": "soep-pre",
+    "name": "n019",
+    "name_cs": "n019",
+    "variable": "n019",
+    "dataset": "pre_2005_2",
+    "label": "Personal Willingness To Take Risks",
+    "categories": {
+      "frequencies": [
+        5,
+        10,
+        0,
+        2,
+        10,
+        818,
+        20,
+        14,
+        56,
+        18,
+        23,
+        28,
+        8
+      ],
+      "labels": [
+        "0 = Risk averse",
+        "1",
+        "No answer",
+        "10 = Fully prepared to take risks",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02201": {
+    "study": "soep-pre",
+    "name": "n02201",
+    "name_cs": "n02201",
+    "variable": "n02201",
+    "dataset": "pre_2005_2",
+    "label": "Thorough Worker",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        0,
+        818,
+        3,
+        3,
+        18,
+        75,
+        94
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02202": {
+    "study": "soep-pre",
+    "name": "n02202",
+    "name_cs": "n02202",
+    "variable": "n02202",
+    "dataset": "pre_2005_2",
+    "label": "Am Communicative",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        4,
+        818,
+        11,
+        23,
+        35,
+        62,
+        58
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02203": {
+    "study": "soep-pre",
+    "name": "n02203",
+    "name_cs": "n02203",
+    "variable": "n02203",
+    "dataset": "pre_2005_2",
+    "label": "Am Sometimes Too Coarse With Others",
+    "categories": {
+      "frequencies": [
+        38,
+        1,
+        47,
+        818,
+        30,
+        27,
+        29,
+        18,
+        4
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02204": {
+    "study": "soep-pre",
+    "name": "n02204",
+    "name_cs": "n02204",
+    "variable": "n02204",
+    "dataset": "pre_2005_2",
+    "label": "Am Original",
+    "categories": {
+      "frequencies": [
+        1,
+        1,
+        6,
+        818,
+        25,
+        43,
+        60,
+        39,
+        19
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02205": {
+    "study": "soep-pre",
+    "name": "n02205",
+    "name_cs": "n02205",
+    "variable": "n02205",
+    "dataset": "pre_2005_2",
+    "label": "Worry A Lot",
+    "categories": {
+      "frequencies": [
+        9,
+        0,
+        28,
+        818,
+        21,
+        34,
+        48,
+        34,
+        20
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02206": {
+    "study": "soep-pre",
+    "name": "n02206",
+    "name_cs": "n02206",
+    "variable": "n02206",
+    "dataset": "pre_2005_2",
+    "label": "Able To Forgive",
+    "categories": {
+      "frequencies": [
+        4,
+        0,
+        3,
+        818,
+        9,
+        14,
+        37,
+        71,
+        56
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02207": {
+    "study": "soep-pre",
+    "name": "n02207",
+    "name_cs": "n02207",
+    "variable": "n02207",
+    "dataset": "pre_2005_2",
+    "label": "Tend To Be Lazy",
+    "categories": {
+      "frequencies": [
+        80,
+        0,
+        45,
+        818,
+        26,
+        17,
+        15,
+        7,
+        4
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02208": {
+    "study": "soep-pre",
+    "name": "n02208",
+    "name_cs": "n02208",
+    "variable": "n02208",
+    "dataset": "pre_2005_2",
+    "label": "Am Sociable",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        8,
+        818,
+        12,
+        40,
+        39,
+        54,
+        39
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02209": {
+    "study": "soep-pre",
+    "name": "n02209",
+    "name_cs": "n02209",
+    "variable": "n02209",
+    "dataset": "pre_2005_2",
+    "label": "Value Artistic Experiences",
+    "categories": {
+      "frequencies": [
+        16,
+        3,
+        23,
+        818,
+        15,
+        29,
+        34,
+        34,
+        40
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02210": {
+    "study": "soep-pre",
+    "name": "n02210",
+    "name_cs": "n02210",
+    "variable": "n02210",
+    "dataset": "pre_2005_2",
+    "label": "Somewhat Nervous",
+    "categories": {
+      "frequencies": [
+        16,
+        0,
+        41,
+        818,
+        34,
+        36,
+        36,
+        23,
+        8
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02211": {
+    "study": "soep-pre",
+    "name": "n02211",
+    "name_cs": "n02211",
+    "variable": "n02211",
+    "dataset": "pre_2005_2",
+    "label": "Carry Out Tasks Efficiently",
+    "categories": {
+      "frequencies": [
+        0,
+        2,
+        1,
+        818,
+        2,
+        13,
+        34,
+        82,
+        60
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02212": {
+    "study": "soep-pre",
+    "name": "n02212",
+    "name_cs": "n02212",
+    "variable": "n02212",
+    "dataset": "pre_2005_2",
+    "label": "Reserved",
+    "categories": {
+      "frequencies": [
+        17,
+        1,
+        15,
+        818,
+        30,
+        47,
+        31,
+        44,
+        9
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02213": {
+    "study": "soep-pre",
+    "name": "n02213",
+    "name_cs": "n02213",
+    "variable": "n02213",
+    "dataset": "pre_2005_2",
+    "label": "Friendly With Others",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        1,
+        818,
+        3,
+        11,
+        29,
+        87,
+        62
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02214": {
+    "study": "soep-pre",
+    "name": "n02214",
+    "name_cs": "n02214",
+    "variable": "n02214",
+    "dataset": "pre_2005_2",
+    "label": "Have Lively Imagination",
+    "categories": {
+      "frequencies": [
+        3,
+        0,
+        14,
+        818,
+        19,
+        27,
+        36,
+        57,
+        38
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02215": {
+    "study": "soep-pre",
+    "name": "n02215",
+    "name_cs": "n02215",
+    "variable": "n02215",
+    "dataset": "pre_2005_2",
+    "label": "Deal Well With Stress",
+    "categories": {
+      "frequencies": [
+        5,
+        0,
+        11,
+        818,
+        13,
+        42,
+        54,
+        51,
+        18
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02301": {
+    "study": "soep-pre",
+    "name": "n02301",
+    "name_cs": "n02301",
+    "variable": "n02301",
+    "dataset": "pre_2005_2",
+    "label": "Return Favors",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        818,
+        1,
+        4,
+        15,
+        38,
+        136
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02302": {
+    "study": "soep-pre",
+    "name": "n02302",
+    "name_cs": "n02302",
+    "variable": "n02302",
+    "dataset": "pre_2005_2",
+    "label": "Get Revenge For Severe Injustices",
+    "categories": {
+      "frequencies": [
+        41,
+        0,
+        49,
+        818,
+        38,
+        26,
+        23,
+        7,
+        10
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02303": {
+    "study": "soep-pre",
+    "name": "n02303",
+    "name_cs": "n02303",
+    "variable": "n02303",
+    "dataset": "pre_2005_2",
+    "label": "Cause Similar Problems to Those Who Cause Me Problems",
+    "categories": {
+      "frequencies": [
+        56,
+        0,
+        60,
+        818,
+        32,
+        21,
+        15,
+        5,
+        5
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02304": {
+    "study": "soep-pre",
+    "name": "n02304",
+    "name_cs": "n02304",
+    "variable": "n02304",
+    "dataset": "pre_2005_2",
+    "label": "Help Those Who Help Me",
+    "categories": {
+      "frequencies": [
+        0,
+        5,
+        0,
+        818,
+        4,
+        11,
+        22,
+        69,
+        83
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02305": {
+    "study": "soep-pre",
+    "name": "n02305",
+    "name_cs": "n02305",
+    "variable": "n02305",
+    "dataset": "pre_2005_2",
+    "label": "Insult Those Who Insult Me",
+    "categories": {
+      "frequencies": [
+        41,
+        0,
+        60,
+        818,
+        23,
+        26,
+        22,
+        13,
+        9
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02306": {
+    "study": "soep-pre",
+    "name": "n02306",
+    "name_cs": "n02306",
+    "variable": "n02306",
+    "dataset": "pre_2005_2",
+    "label": "Help Those Who Have Helped Me In the Past",
+    "categories": {
+      "frequencies": [
+        3,
+        0,
+        7,
+        818,
+        9,
+        25,
+        31,
+        66,
+        53
+      ],
+      "labels": [
+        "1 = Strongly disagree",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Strongly agree"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02401": {
+    "study": "soep-pre",
+    "name": "n02401",
+    "name_cs": "n02401",
+    "variable": "n02401",
+    "dataset": "pre_2005_2",
+    "label": "My Lifes Course Depends On Me",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        5,
+        818,
+        4,
+        23,
+        29,
+        47,
+        85
+      ],
+      "labels": [
+        "1 = Disagree completely",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02402": {
+    "study": "soep-pre",
+    "name": "n02402",
+    "name_cs": "n02402",
+    "variable": "n02402",
+    "dataset": "pre_2005_2",
+    "label": "Haven",
+    "categories": {
+      "frequencies": [
+        36,
+        3,
+        50,
+        818,
+        33,
+        27,
+        25,
+        4,
+        16
+      ],
+      "labels": [
+        "1 = Disagree completely",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02403": {
+    "study": "soep-pre",
+    "name": "n02403",
+    "name_cs": "n02403",
+    "variable": "n02403",
+    "dataset": "pre_2005_2",
+    "label": "What You Achieve Depends On Luck",
+    "categories": {
+      "frequencies": [
+        24,
+        0,
+        37,
+        818,
+        26,
+        40,
+        23,
+        24,
+        20
+      ],
+      "labels": [
+        "1 = Disagree completely",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02404": {
+    "study": "soep-pre",
+    "name": "n02404",
+    "name_cs": "n02404",
+    "variable": "n02404",
+    "dataset": "pre_2005_2",
+    "label": "Influence On Social Conditions Through Involvement",
+    "categories": {
+      "frequencies": [
+        25,
+        5,
+        25,
+        818,
+        32,
+        40,
+        29,
+        18,
+        20
+      ],
+      "labels": [
+        "1 = Disagree completely",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02405": {
+    "study": "soep-pre",
+    "name": "n02405",
+    "name_cs": "n02405",
+    "variable": "n02405",
+    "dataset": "pre_2005_2",
+    "label": "Others make the crucial decisions in my life",
+    "categories": {
+      "frequencies": [
+        44,
+        0,
+        43,
+        818,
+        45,
+        31,
+        14,
+        14,
+        3
+      ],
+      "labels": [
+        "1 = Disagree completely",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02406": {
+    "study": "soep-pre",
+    "name": "n02406",
+    "name_cs": "n02406",
+    "variable": "n02406",
+    "dataset": "pre_2005_2",
+    "label": "Success Takes Hard Work",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        1,
+        818,
+        1,
+        5,
+        29,
+        66,
+        90
+      ],
+      "labels": [
+        "1 = Disagree completely",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02407": {
+    "study": "soep-pre",
+    "name": "n02407",
+    "name_cs": "n02407",
+    "variable": "n02407",
+    "dataset": "pre_2005_2",
+    "label": "Doubt My Abilities When Problems Arise",
+    "categories": {
+      "frequencies": [
+        22,
+        0,
+        51,
+        818,
+        34,
+        31,
+        34,
+        20,
+        2
+      ],
+      "labels": [
+        "1 = Disagree completely",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02408": {
+    "study": "soep-pre",
+    "name": "n02408",
+    "name_cs": "n02408",
+    "variable": "n02408",
+    "dataset": "pre_2005_2",
+    "label": "Possibilities Are Defined By Social Conditions",
+    "categories": {
+      "frequencies": [
+        3,
+        1,
+        19,
+        818,
+        29,
+        46,
+        43,
+        36,
+        17
+      ],
+      "labels": [
+        "1 = Disagree completely",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02409": {
+    "study": "soep-pre",
+    "name": "n02409",
+    "name_cs": "n02409",
+    "variable": "n02409",
+    "dataset": "pre_2005_2",
+    "label": "Abilities Are More Important Than Effort",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        3,
+        818,
+        13,
+        38,
+        49,
+        46,
+        45
+      ],
+      "labels": [
+        "1 = Disagree completely",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02410": {
+    "study": "soep-pre",
+    "name": "n02410",
+    "name_cs": "n02410",
+    "variable": "n02410",
+    "dataset": "pre_2005_2",
+    "label": "Litte Control Over My Life",
+    "categories": {
+      "frequencies": [
+        66,
+        0,
+        61,
+        818,
+        29,
+        24,
+        10,
+        1,
+        3
+      ],
+      "labels": [
+        "1 = Disagree completely",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02411": {
+    "study": "soep-pre",
+    "name": "n02411",
+    "name_cs": "n02411",
+    "variable": "n02411",
+    "dataset": "pre_2005_2",
+    "label": "I Always Try To Have Some Money Set Aside For Unexpected Expenses",
+    "categories": {
+      "frequencies": [
+        7,
+        2,
+        16,
+        818,
+        5,
+        4,
+        28,
+        39,
+        93
+      ],
+      "labels": [
+        "1 = Disagree completely",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 = Agree completely"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n02601": {
+    "study": "soep-pre",
+    "name": "n02601",
+    "name_cs": "n02601",
+    "variable": "n02601",
+    "dataset": "pre_2005_2",
+    "label": "Church, Religion",
+    "categories": {
+      "frequencies": [
+        57,
+        0,
+        71,
+        818,
+        5,
+        4,
+        0,
+        57
+      ],
+      "labels": [
+        "Catholic",
+        "No answer",
+        "Protestant",
+        ".",
+        "A member of a different Christian denomination or religious community",
+        "A member of an Islamic religious community",
+        "A member of another religious community",
+        "No, I am not a member of a religious community"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n026so": {
+    "study": "soep-pre",
+    "name": "n026so",
+    "name_cs": "n026so",
+    "variable": "n026so",
+    "dataset": "pre_2005_2",
+    "label": "Other Religious Community",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "n036": {
+    "study": "soep-pre",
+    "name": "n036",
+    "name_cs": "n036",
+    "variable": "n036",
+    "dataset": "pre_2005_2",
+    "label": "Gainfully Employed",
+    "categories": {
+      "frequencies": [
+        63,
+        17,
+        818,
+        2,
+        7,
+        2,
+        0,
+        0,
+        103
+      ],
+      "labels": [
+        "Full-time employed",
+        "Part-time employed",
+        ".",
+        "In occupational / professional education or retraining",
+        "Marginally (\"geringf\u0081gig\") or irregularly employed",
+        "In partial retirement with zero working hours",
+        "Doing compulsory military service",
+        "Doing community service as substitute for compulsory military service (\"Zivildie",
+        "Not employed"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n065": {
+    "study": "soep-pre",
+    "name": "n065",
+    "name_cs": "n065",
+    "variable": "n065",
+    "dataset": "pre_2005_2",
+    "label": "Current Health Status",
+    "categories": {
+      "frequencies": [
+        34,
+        0,
+        80,
+        818,
+        58,
+        19,
+        3
+      ],
+      "labels": [
+        "Very good",
+        "No answer",
+        "Good",
+        ".",
+        "Satisfactory",
+        "Poor",
+        "Bad"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n08401": {
+    "study": "soep-pre",
+    "name": "n08401",
+    "name_cs": "n08401",
+    "variable": "n08401",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Be Able To Afford Sth.",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        3,
+        818,
+        8,
+        28,
+        59,
+        61,
+        35
+      ],
+      "labels": [
+        "1 not at all important",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n08402": {
+    "study": "soep-pre",
+    "name": "n08402",
+    "name_cs": "n08402",
+    "variable": "n08402",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Help Others",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        0,
+        818,
+        0,
+        11,
+        42,
+        73,
+        67
+      ],
+      "labels": [
+        "1 not at all important",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n08403": {
+    "study": "soep-pre",
+    "name": "n08403",
+    "name_cs": "n08403",
+    "variable": "n08403",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Fulfill Once Potential",
+    "categories": {
+      "frequencies": [
+        1,
+        2,
+        8,
+        818,
+        7,
+        28,
+        50,
+        57,
+        41
+      ],
+      "labels": [
+        "1 not at all important",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n08404": {
+    "study": "soep-pre",
+    "name": "n08404",
+    "name_cs": "n08404",
+    "variable": "n08404",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Have Success In The Job",
+    "categories": {
+      "frequencies": [
+        11,
+        10,
+        4,
+        818,
+        5,
+        12,
+        42,
+        57,
+        53
+      ],
+      "labels": [
+        "1 not at all important",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n08405": {
+    "study": "soep-pre",
+    "name": "n08405",
+    "name_cs": "n08405",
+    "variable": "n08405",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Have An Own House",
+    "categories": {
+      "frequencies": [
+        23,
+        2,
+        20,
+        818,
+        24,
+        14,
+        22,
+        28,
+        61
+      ],
+      "labels": [
+        "1 not at all important",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n08406": {
+    "study": "soep-pre",
+    "name": "n08406",
+    "name_cs": "n08406",
+    "variable": "n08406",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Have A Happy Marriage",
+    "categories": {
+      "frequencies": [
+        3,
+        4,
+        1,
+        818,
+        3,
+        2,
+        15,
+        40,
+        126
+      ],
+      "labels": [
+        "1 not at all important",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n08407": {
+    "study": "soep-pre",
+    "name": "n08407",
+    "name_cs": "n08407",
+    "variable": "n08407",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Have Children",
+    "categories": {
+      "frequencies": [
+        9,
+        4,
+        7,
+        818,
+        7,
+        6,
+        12,
+        37,
+        112
+      ],
+      "labels": [
+        "1 not at all important",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n08408": {
+    "study": "soep-pre",
+    "name": "n08408",
+    "name_cs": "n08408",
+    "variable": "n08408",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To Be Socially And Politically Active",
+    "categories": {
+      "frequencies": [
+        32,
+        2,
+        29,
+        818,
+        29,
+        42,
+        31,
+        21,
+        8
+      ],
+      "labels": [
+        "1 not at all important",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n08409": {
+    "study": "soep-pre",
+    "name": "n08409",
+    "name_cs": "n08409",
+    "variable": "n08409",
+    "dataset": "pre_2005_2",
+    "label": "Importance: To See The World, Travel A Lot",
+    "categories": {
+      "frequencies": [
+        9,
+        0,
+        19,
+        818,
+        22,
+        38,
+        38,
+        39,
+        29
+      ],
+      "labels": [
+        "1 not at all important",
+        "No answer",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7 very important"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "na01": {
+    "study": "soep-pre",
+    "name": "na01",
+    "name_cs": "na01",
+    "variable": "na01",
+    "dataset": "pre_2005_2",
+    "label": "Change in Job Within Last 4 Weeks (Yes/No)",
+    "categories": {
+      "frequencies": [
+        11,
+        1,
+        182,
+        818
+      ],
+      "labels": [
+        "Yes, in  fact:",
+        "No answer",
+        "No",
+        "."
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "."
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "na02": {
+    "study": "soep-pre",
+    "name": "na02",
+    "name_cs": "na02",
+    "variable": "na02",
+    "dataset": "pre_2005_2",
+    "label": "Change in Job Within Last 4 Weeks - What Changed",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "nb01": {
+    "study": "soep-pre",
+    "name": "nb01",
+    "name_cs": "nb01",
+    "variable": "nb01",
+    "dataset": "pre_2005_2",
+    "label": "Change in Family Life Within Last 4 Weeks (Yes/No)",
+    "categories": {
+      "frequencies": [
+        5,
+        0,
+        189,
+        818
+      ],
+      "labels": [
+        "Yes, in  fact:",
+        "No answer",
+        "No",
+        "."
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "."
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "nb02": {
+    "study": "soep-pre",
+    "name": "nb02",
+    "name_cs": "nb02",
+    "variable": "nb02",
+    "dataset": "pre_2005_2",
+    "label": "Change in Family Life Within Last 4 Weeks - What Changed",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "nc01": {
+    "study": "soep-pre",
+    "name": "nc01",
+    "name_cs": "nc01",
+    "variable": "nc01",
+    "dataset": "pre_2005_2",
+    "label": "Other Change in Life Within Last 4 Weeks (Yes/No)",
+    "categories": {
+      "frequencies": [
+        17,
+        0,
+        177,
+        818
+      ],
+      "labels": [
+        "Yes, in  fact:",
+        "No answer",
+        "No",
+        "."
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "."
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "nc02": {
+    "study": "soep-pre",
+    "name": "nc02",
+    "name_cs": "nc02",
+    "variable": "nc02",
+    "dataset": "pre_2005_2",
+    "label": "Other Change in Life Within Last 4 Weeks - What Changed",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "n103": {
+    "study": "soep-pre",
+    "name": "n103",
+    "name_cs": "n103",
+    "variable": "n103",
+    "dataset": "pre_2005_2",
+    "label": "General Satisfaction with Life Now",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        1,
+        22,
+        1,
+        818,
+        2,
+        3,
+        16,
+        12,
+        36,
+        73,
+        26
+      ],
+      "labels": [
+        "0 = Totally unhappy",
+        "1",
+        "No answer",
+        "10 = Totally happy",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "-1",
+        "10",
+        "2",
+        ".",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "194",
+        "818"
+      ]
+    },
+    "scale": "cat"
+  },
+  "nadauer": {
+    "study": "soep-pre",
+    "name": "nadauer",
+    "name_cs": "nadauer",
+    "variable": "nadauer",
+    "dataset": "pre_2005_2",
+    "label": "Length Oral Interview (Minutes)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5",
+        "10",
+        "15",
+        "13.96",
+        "15",
+        "30",
+        "818",
+        "194",
+        "818"
+      ]
+    },
+    "scale": ""
+  },
+  "nintnum": {
+    "study": "soep-pre",
+    "name": "nintnum",
+    "name_cs": "nintnum",
+    "variable": "nintnum",
+    "dataset": "pre_2005_2",
+    "label": "Interviewer Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1325",
+        "209300",
+        "256200",
+        "233100",
+        "282400",
+        "291200",
+        "818",
+        "194",
+        "818"
+      ]
+    },
+    "scale": ""
+  },
+  "nebv": {
+    "study": "soep-pre",
+    "name": "nebv",
+    "name_cs": "nebv",
+    "variable": "nebv",
+    "dataset": "pre_2005_2",
+    "label": "Follow-up Report: Re-Pretest 2005 - Comprehensibility",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1.34",
+        "2",
+        "4",
+        "818",
+        "194",
+        "818"
+      ]
+    },
+    "scale": ""
+  },
+  "nebb": {
+    "study": "soep-pre",
+    "name": "nebb",
+    "name_cs": "nebb",
+    "variable": "nebb",
+    "dataset": "pre_2005_2",
+    "label": "Follow-up Report: Re-Pretest 2005 - Willingness to Answer",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1.206",
+        "1",
+        "3",
+        "818",
+        "194",
+        "818"
+      ]
+    },
+    "scale": ""
+  },
+  "nebk1": {
+    "study": "soep-pre",
+    "name": "nebk1",
+    "name_cs": "nebk1",
+    "variable": "nebk1",
+    "dataset": "pre_2005_2",
+    "label": "Follow-up Report: Re-Pretest 2005 - Explanation 1",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "nebk2": {
+    "study": "soep-pre",
+    "name": "nebk2",
+    "name_cs": "nebk2",
+    "variable": "nebk2",
+    "dataset": "pre_2005_2",
+    "label": "Follow-up Report: Re-Pretest 2005 - Explanation 2",
+    "categories": {
+      "frequencies": [
+        184,
+        828
+      ],
+      "labels": [
+        "No, no explanation",
+        "."
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "."
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "184",
+        "828"
+      ]
+    },
+    "scale": "cat"
+  },
+  "n024dau": {
+    "study": "soep-pre",
+    "name": "n024dau",
+    "name_cs": "n024dau",
+    "variable": "n024dau",
+    "dataset": "pre_2005_2",
+    "label": "Retest-Pretest 2005 - Questions 22 - 24 Duration in min.",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2.117",
+        "4.204",
+        "5.408",
+        "6.449",
+        "7.683",
+        "30.88",
+        "818",
+        "194",
+        "818"
+      ]
+    },
+    "scale": ""
+  },
+  "nabcdau": {
+    "study": "soep-pre",
+    "name": "nabcdau",
+    "name_cs": "nabcdau",
+    "variable": "nabcdau",
+    "dataset": "pre_2005_2",
+    "label": "Retest-Pretest 2005 - Questions A/B/C Duration in Minutes",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0.08333",
+        "0.2542",
+        "0.3833",
+        "0.7248",
+        "0.6833",
+        "7.933",
+        "818",
+        "194",
+        "818"
+      ]
+    },
+    "scale": ""
+  },
+  "ndatt": {
+    "study": "soep-pre",
+    "name": "ndatt",
+    "name_cs": "ndatt",
+    "variable": "ndatt",
+    "dataset": "pre_2005_2",
+    "label": "Day Of The Interview",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "8",
+        "26",
+        "20.46",
+        "27",
+        "31",
+        "818",
+        "194",
+        "818"
+      ]
+    },
+    "scale": ""
+  },
+  "ndatm": {
+    "study": "soep-pre",
+    "name": "ndatm",
+    "name_cs": "ndatm",
+    "variable": "ndatm",
+    "dataset": "pre_2005_2",
+    "label": "Month Of The Interview",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "7",
+        "7",
+        "7.253",
+        "7.75",
+        "8",
+        "818",
+        "194",
+        "818"
+      ]
+    },
+    "scale": ""
+  },
+  "tage": {
+    "study": "soep-pre",
+    "name": "tage",
+    "name_cs": "tage",
+    "variable": "tage",
+    "dataset": "pre_2005_2",
+    "label": "Number of Days Between 1st and 2nd Pretest 2005",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "24",
+        "32",
+        "34",
+        "35.17",
+        "40",
+        "47",
+        "818",
+        "194",
+        "818"
+      ]
+    },
+    "scale": ""
+  },
+  "netto": {
+    "study": "soep-pre",
+    "name": "netto",
+    "name_cs": "netto",
+    "variable": "netto",
+    "dataset": "pre_2005_2",
+    "label": "Selection For Re-Test Study",
+    "categories": {
+      "frequencies": [
+        706,
+        112,
+        194
+      ],
+      "labels": [
+        "Not selected",
+        "Seleted for re-test study , but not realized",
+        "Seleted for re-test study and realized"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "wandel": {
+    "study": "soep-pre",
+    "name": "wandel",
+    "name_cs": "wandel",
+    "variable": "wandel",
+    "dataset": "pre_2005_2",
+    "label": "Change from Pretest 2005 to Re-Pretest 2005",
+    "categories": {
+      "frequencies": [
+        985,
+        27
+      ],
+      "labels": [
+        "No change",
+        "Change during the last four weeks"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1012",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  }
+}
