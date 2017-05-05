@@ -1,0 +1,15 @@
+study_name,dataset_name,period_name,label
+soep-pretest,pre_2004_online,2004,"Pilot study 2004, Pretest online"
+soep-pretest,pre_2005_youth,2005,"""Youth"" Questionnaire and cognitive test. Pretest  for SOEP 2006. "
+soep-pretest,pre_2005_1,2005,"Personality and daily routine. Behavioral experiments. Pretest June, Random"
+soep-pretest,pre_2005_2,2005,Retest July. Personality and daily routine. 
+soep-pretest,pre_2006,2006,"Personality and community. Pretest June, Random. "
+soep-pretest,pre_2007_muki_a,2007,Pretest Mother and Child IIIa. Your preschool-aged child
+soep-pretest,pre_2007_1,2007,"Personality and health. Pretest January, February, March"
+soep-pretest,pre_2007_2,2007,Private life and community. Pretest online survey
+soep-pretest,pre_2008,2008,CAPI - Pretest - Summer 2008
+soep-pretest,pre_2008_muki_b,2008,Pretest Mother and Child IIIb. Your child aged 5 or 6. Competence and behavior test with pre-school aged children and survey terms
+soep-pretest,pre_2008_muki_c,2008,Pretest Mother and Child IIIc. Your child aged 5 or 6.   
+soep-pretest,pre_2009,2009,Consumer Spending and Budgeting
+soep-pretest,pre_2010,2010,"Social Networks, Economic Job Search Theory"
+soep-pretest,pre_2011,2011,"Gender, personality and social inequality"
