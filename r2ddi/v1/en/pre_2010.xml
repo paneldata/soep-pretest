@@ -2862,7 +2862,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Marginally ("geringfügig") or irregularly employed</labl>
+        <labl>Marginally ("geringfÃ¼gig") or irregularly employed</labl>
         <catStat type="freq"> 48</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -22129,7 +22129,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>schlönern (2)</labl>
+        <labl>schlÃ¶nern (2)</labl>
         <catStat type="freq">  1</catStat>
       </catgry>
       <catgry missing="TRUE">
@@ -22566,12 +22566,12 @@
       <sumStat type="invalid">683</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>igäde (1)</labl>
+        <labl>igÃ¤de (1)</labl>
         <catStat type="freq"> 46</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>dägie (2)</labl>
+        <labl>dÃ¤gie (2)</labl>
         <catStat type="freq"> 21</catStat>
       </catgry>
       <catgry missing="TRUE">
@@ -22580,12 +22580,12 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>Ägide (3)</labl>
+        <labl>Ã„gide (3)</labl>
         <catStat type="freq">447</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>digäde (4)</labl>
+        <labl>digÃ¤de (4)</labl>
         <catStat type="freq"> 33</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -22828,7 +22828,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>5</catValu>
-        <labl>ilschah´ (5)</labl>
+        <labl>ilschahÂ´ (5)</labl>
         <catStat type="freq"> 55</catStat>
       </catgry>
     </var>

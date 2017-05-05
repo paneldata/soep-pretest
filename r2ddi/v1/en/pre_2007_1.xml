@@ -1300,7 +1300,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>Specialized upper secondary school-leaving certificate (Fachoberschule )</labl>
+        <labl>Specialized upper secondary school-leaving certificate (FachoberschuleÂ )</labl>
         <catStat type="freq"> 39</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -5518,7 +5518,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Marginally ("geringfügig") or irregularly employed</labl>
+        <labl>Marginally ("geringfÃ¼gig") or irregularly employed</labl>
         <catStat type="freq"> 36</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -6343,7 +6343,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>6</catValu>
-        <labl>Between 200 and less than 1,999 </labl>
+        <labl>Between 200 and less than 1,999Â </labl>
         <catStat type="freq"> 71</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -16724,7 +16724,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>21</catValu>
-        <labl>( &lt; 1500) less or more than  750 = NA</labl>
+        <labl>( &lt; 1500) less or more than Â 750 = NA</labl>
         <catStat type="freq">  3</catStat>
       </catgry>
       <catgry missing="TRUE">
@@ -19162,7 +19162,7 @@
       <sumStat type="invalid">0</sumStat>
     </var>
     <var ID="f134" intrvl="labeled_numeric" files="pre_2007_1">
-      <labl>Public, Free or Private Crèche/Kindergarden/Nursery</labl>
+      <labl>Public, Free or Private CrÃ¨che/Kindergarden/Nursery</labl>
       <sumStat type="valid">70</sumStat>
       <sumStat type="invalid">953</sumStat>
       <catgry missing="FALSE">
@@ -19348,7 +19348,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>5</catValu>
-        <labl>Bündnis 90 / Die Grünen</labl>
+        <labl>BÃ¼ndnis 90 / Die GrÃ¼nen</labl>
         <catStat type="freq"> 40</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -21464,7 +21464,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>8</catValu>
-        <labl>Baden-Württemberg</labl>
+        <labl>Baden-WÃ¼rttemberg</labl>
         <catStat type="freq">132</catStat>
       </catgry>
       <catgry missing="FALSE">

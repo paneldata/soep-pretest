@@ -666,7 +666,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>Specialized upper secondary school-leaving certificate (Fachoberschule )</labl>
+        <labl>Specialized upper secondary school-leaving certificate (FachoberschuleÂ )</labl>
         <catStat type="freq"> 46</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -691,7 +691,7 @@
       <sumStat type="invalid">330</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>Baden-Württemberg</labl>
+        <labl>Baden-WÃ¼rttemberg</labl>
         <catStat type="freq">105</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -6333,7 +6333,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Marginally ("geringfügig") or irregularly employed</labl>
+        <labl>Marginally ("geringfÃ¼gig") or irregularly employed</labl>
         <catStat type="freq"> 32</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -6533,7 +6533,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>6</catValu>
-        <labl>Between 200 and less than 1,999 </labl>
+        <labl>Between 200 and less than 1,999Â </labl>
         <catStat type="freq"> 63</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -9624,7 +9624,7 @@
       </catgry>
     </var>
     <var ID="f064a1z1" intrvl="labeled_numeric" files="pre_2006">
-      <labl>Experiment Financial Behavior "Security or Chance" (Mentioned in First Line…) Sp</labl>
+      <labl>Experiment Financial Behavior "Security or Chance" (Mentioned in First LineÂ…) Sp</labl>
       <sumStat type="valid">528</sumStat>
       <sumStat type="invalid">535</sumStat>
       <catgry missing="FALSE">
@@ -9757,7 +9757,7 @@
       </catgry>
     </var>
     <var ID="f064a2z1" intrvl="labeled_numeric" files="pre_2006">
-      <labl>Experiment Financial Behavior "Security or Chance" (Mentioned in First Line…) Sp</labl>
+      <labl>Experiment Financial Behavior "Security or Chance" (Mentioned in First LineÂ…) Sp</labl>
       <sumStat type="valid">528</sumStat>
       <sumStat type="invalid">535</sumStat>
       <catgry missing="FALSE">
@@ -14843,7 +14843,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>21</catValu>
-        <labl>( &lt; 1500) less or more than  750 = NA</labl>
+        <labl>( &lt; 1500) less or more than Â 750 = NA</labl>
         <catStat type="freq">  7</catStat>
       </catgry>
       <catgry missing="TRUE">
@@ -17591,7 +17591,7 @@
       </catgry>
     </var>
     <var ID="f10403" intrvl="labeled_numeric" files="pre_2006">
-      <labl>Frequency Participation In Lottery "Glücksspirale"</labl>
+      <labl>Frequency Participation In Lottery "GlÃ¼cksspirale"</labl>
       <sumStat type="valid">528</sumStat>
       <sumStat type="invalid">535</sumStat>
       <catgry missing="FALSE">
@@ -17949,7 +17949,7 @@
       </catgry>
     </var>
     <var ID="f10601" intrvl="labeled_numeric" files="pre_2006">
-      <labl>Risk Perception: Likelihood Stoks - Losing 1000€/Year</labl>
+      <labl>Risk Perception: Likelihood Stoks - Losing 1000Â€/Year</labl>
       <sumStat type="valid">280</sumStat>
       <sumStat type="invalid">783</sumStat>
       <catgry missing="FALSE">
@@ -18064,7 +18064,7 @@
       </catgry>
     </var>
     <var ID="f10602" intrvl="labeled_numeric" files="pre_2006">
-      <labl>Risk Perception: Likelihood Stoks - Losing 1000€/Year, Cannot Estimate</labl>
+      <labl>Risk Perception: Likelihood Stoks - Losing 1000Â€/Year, Cannot Estimate</labl>
       <sumStat type="valid">257</sumStat>
       <sumStat type="invalid">806</sumStat>
       <catgry missing="FALSE">
@@ -35503,7 +35503,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>8</catValu>
-        <labl>Baden-Württemberg</labl>
+        <labl>Baden-WÃ¼rttemberg</labl>
         <catStat type="freq">126</catStat>
       </catgry>
       <catgry missing="FALSE">

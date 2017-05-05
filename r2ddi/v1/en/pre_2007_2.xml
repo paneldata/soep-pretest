@@ -1216,7 +1216,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>Specialized upper secondary school-leaving certificate (Fachoberschule )</labl>
+        <labl>Specialized upper secondary school-leaving certificate (FachoberschuleÂ )</labl>
         <catStat type="freq"> 88</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -7845,7 +7845,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Marginally ("geringfügig") or irregularly employed</labl>
+        <labl>Marginally ("geringfÃ¼gig") or irregularly employed</labl>
         <catStat type="freq"> 68</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -8232,7 +8232,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>6</catValu>
-        <labl>Between 200 and less than 1,999 </labl>
+        <labl>Between 200 and less than 1,999Â </labl>
         <catStat type="freq">184</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -11438,7 +11438,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>8</catValu>
-        <labl>Baden-Württemberg</labl>
+        <labl>Baden-WÃ¼rttemberg</labl>
         <catStat type="freq">125</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -11514,32 +11514,32 @@
       <sumStat type="invalid">0</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>1 – 1,999 inhabitants</labl>
+        <labl>1 Â– 1,999 inhabitants</labl>
         <catStat type="freq"> 53</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>2,000 – 4,999 inhabitants</labl>
+        <labl>2,000 Â– 4,999 inhabitants</labl>
         <catStat type="freq"> 98</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>5,000 – 19,999 inhabitants</labl>
+        <labl>5,000 Â– 19,999 inhabitants</labl>
         <catStat type="freq">258</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>20,000 – 49,999 inhabitants</labl>
+        <labl>20,000 Â– 49,999 inhabitants</labl>
         <catStat type="freq">197</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>5</catValu>
-        <labl>50,000 – 99 ,999 inhabitants</labl>
+        <labl>50,000 Â– 99 ,999 inhabitants</labl>
         <catStat type="freq">113</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>6</catValu>
-        <labl>100,000 – 499,999 inhabitants</labl>
+        <labl>100,000 Â– 499,999 inhabitants</labl>
         <catStat type="freq">188</catStat>
       </catgry>
       <catgry missing="FALSE">

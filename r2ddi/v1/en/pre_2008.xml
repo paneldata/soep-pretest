@@ -1063,7 +1063,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>21</catValu>
-        <labl>( &lt; 1500) less or more than  750 = NA</labl>
+        <labl>( &lt; 1500) less or more than Â 750 = NA</labl>
         <catStat type="freq">  4</catStat>
       </catgry>
       <catgry missing="TRUE">
@@ -2624,7 +2624,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>Specialized upper secondary school-leaving certificate (Fachoberschule )</labl>
+        <labl>Specialized upper secondary school-leaving certificate (FachoberschuleÂ )</labl>
         <catStat type="freq"> 55</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -3035,7 +3035,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>In marginal (geringfügig) or irregular employment (unregelmäßig erwerbstätig)</labl>
+        <labl>In marginal (geringfÃ¼gig) or irregular employment (unregelmÃ¤ÃŸig erwerbstÃ¤tig)</labl>
         <catStat type="freq"> 22</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -3339,7 +3339,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>6</catValu>
-        <labl>Between 200 and less than 1,999 </labl>
+        <labl>Between 200 and less than 1,999Â </labl>
         <catStat type="freq"> 63</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -3383,7 +3383,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Don’t know</labl>
+        <labl>DonÂ’t know</labl>
         <catStat type="freq"> 42</catStat>
       </catgry>
     </var>
@@ -3417,7 +3417,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Don’t know</labl>
+        <labl>DonÂ’t know</labl>
         <catStat type="freq"> 63</catStat>
       </catgry>
     </var>
@@ -3749,7 +3749,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>Self-employed farmer with 1 –  9 employees</labl>
+        <labl>Self-employed farmer with 1 Â–  9 employees</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
       <catgry missing="TRUE">
@@ -3768,7 +3768,7 @@
       <sumStat type="invalid">1050</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>Freelance professional, self-employed academic (selbständiger Akademiker) with n</labl>
+        <labl>Freelance professional, self-employed academic (selbstÃ¤ndiger Akademiker) with n</labl>
         <catStat type="freq">  15</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -3778,7 +3778,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>Freelance professional, self-employed academic (selbständiger Akademiker), 1 – 9</labl>
+        <labl>Freelance professional, self-employed academic (selbstÃ¤ndiger Akademiker), 1 Â– 9</labl>
         <catStat type="freq">   0</catStat>
       </catgry>
       <catgry missing="TRUE">
@@ -3787,7 +3787,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>Freelance professional, self-employed academic (selbständiger Akademiker), 10 or</labl>
+        <labl>Freelance professional, self-employed academic (selbstÃ¤ndiger Akademiker), 10 or</labl>
         <catStat type="freq">   1</catStat>
       </catgry>
     </var>
@@ -3807,7 +3807,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>Other self-employed with 1 – 9 employees</labl>
+        <labl>Other self-employed with 1 Â– 9 employees</labl>
         <catStat type="freq">  13</catStat>
       </catgry>
       <catgry missing="TRUE">
@@ -3884,7 +3884,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tä</labl>
+        <labl>Salaried employee engaged in unskilled activities (Angestellter mit einfacher TÃ¤</labl>
         <catStat type="freq"> 24</catStat>
       </catgry>
       <catgry missing="TRUE">
@@ -3893,7 +3893,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>Salaried employee engaged in unskilled activities (Angestellter mit einfacher Tä</labl>
+        <labl>Salaried employee engaged in unskilled activities (Angestellter mit einfacher TÃ¤</labl>
         <catStat type="freq"> 59</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -4031,7 +4031,7 @@
       <sumStat type="invalid">1026</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>Don’t know</labl>
+        <labl>DonÂ’t know</labl>
         <catStat type="freq">  28</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -4062,7 +4062,7 @@
       <sumStat type="invalid">1038</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>Don’t know</labl>
+        <labl>DonÂ’t know</labl>
         <catStat type="freq">  16</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -7451,7 +7451,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>Good – “acceptable”</labl>
+        <labl>Good Â– Â“acceptableÂ”</labl>
         <catStat type="freq">322</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -9924,7 +9924,7 @@
       </catgry>
     </var>
     <var ID="F05515" intrvl="labeled_numeric" files="pre_2008">
-      <labl>Personal Strength: How Much Gratitude Do You Generally Feel And Show?</labl>
+      <labl>Personal Strength: How Much Gratitude DoÂ You Generally Feel And Show?</labl>
       <sumStat type="valid">1066</sumStat>
       <sumStat type="invalid">0</sumStat>
       <catgry missing="FALSE">

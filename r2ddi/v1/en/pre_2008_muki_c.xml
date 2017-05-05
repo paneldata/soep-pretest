@@ -23,7 +23,7 @@
       <sumStat type="invalid">0</sumStat>
     </var>
     <var ID="kind_id" intrvl="numeric" files="pre_2008_muki_c">
-      <labl>Child’s ID</labl>
+      <labl>ChildÂ’s ID</labl>
       <sumStat type="Min.">101</sumStat>
       <sumStat type="1st Qu.">403.2</sumStat>
       <sumStat type="Median">662.5</sumStat>
@@ -11517,7 +11517,7 @@
       </catgry>
     </var>
     <var ID="k1702" intrvl="labeled_numeric" files="pre_2008_muki_c">
-      <labl>Cared For Child By Child’s Father (If Not HH Member) In Normal Week (Yes/ No)</labl>
+      <labl>Cared For Child By ChildÂ’s Father (If Not HH Member) In Normal Week (Yes/ No)</labl>
       <sumStat type="valid">12</sumStat>
       <sumStat type="invalid">106</sumStat>
       <catgry missing="FALSE">
@@ -11527,7 +11527,7 @@
       </catgry>
     </var>
     <var ID="k1703" intrvl="labeled_numeric" files="pre_2008_muki_c">
-      <labl>Cared For Child By Child’s Grandparents In Normal Week (Yes/ No)</labl>
+      <labl>Cared For Child By ChildÂ’s Grandparents In Normal Week (Yes/ No)</labl>
       <sumStat type="valid">38</sumStat>
       <sumStat type="invalid">80</sumStat>
       <catgry missing="FALSE">
@@ -11537,7 +11537,7 @@
       </catgry>
     </var>
     <var ID="k1704" intrvl="labeled_numeric" files="pre_2008_muki_c">
-      <labl>Cared For Child By Child’s Elder Siblings In Normal Week (Yes/ No)</labl>
+      <labl>Cared For Child By ChildÂ’s Elder Siblings In Normal Week (Yes/ No)</labl>
       <sumStat type="valid">10</sumStat>
       <sumStat type="invalid">108</sumStat>
       <catgry missing="FALSE">
@@ -18131,7 +18131,7 @@
       <sumStat type="invalid">0</sumStat>
     </var>
     <var ID="rpniete" intrvl="labeled_numeric" files="pre_2008_muki_c">
-      <labl>Risk Preference Mother: Blank - On Position…</labl>
+      <labl>Risk Preference Mother: Blank - On PositionÂ…</labl>
       <sumStat type="valid">118</sumStat>
       <sumStat type="invalid">0</sumStat>
       <catgry missing="FALSE">
@@ -19653,7 +19653,7 @@
       <sumStat type="invalid">118</sumStat>
     </var>
     <var ID="ww08end" intrvl="numeric" files="pre_2008_muki_c">
-      <labl>Competition Affinity Mother: End After …. Seconds</labl>
+      <labl>Competition Affinity Mother: End After Â…. Seconds</labl>
       <sumStat type="Min.">91</sumStat>
       <sumStat type="1st Qu.">94</sumStat>
       <sumStat type="Median">98</sumStat>

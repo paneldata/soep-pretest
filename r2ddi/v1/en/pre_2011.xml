@@ -5744,7 +5744,7 @@
       </catgry>
     </var>
     <var ID="f30" intrvl="labeled_numeric" files="pre_2011">
-      <labl>HH Net Income Higher/Lower 1500€</labl>
+      <labl>HH Net Income Higher/Lower 1500Â€</labl>
       <sumStat type="valid">261</sumStat>
       <sumStat type="invalid">927</sumStat>
       <catgry missing="FALSE">
@@ -5768,7 +5768,7 @@
       </catgry>
     </var>
     <var ID="f31" intrvl="labeled_numeric" files="pre_2011">
-      <labl>HH Net Income Higher/Lower 750€</labl>
+      <labl>HH Net Income Higher/Lower 750Â€</labl>
       <sumStat type="valid">56</sumStat>
       <sumStat type="invalid">1132</sumStat>
       <catgry missing="FALSE">
@@ -5792,7 +5792,7 @@
       </catgry>
     </var>
     <var ID="f32" intrvl="labeled_numeric" files="pre_2011">
-      <labl>HH Net Income Higher/Lower 2500€</labl>
+      <labl>HH Net Income Higher/Lower 2500Â€</labl>
       <sumStat type="valid">150</sumStat>
       <sumStat type="invalid">1038</sumStat>
       <catgry missing="FALSE">
@@ -5816,7 +5816,7 @@
       </catgry>
     </var>
     <var ID="f33" intrvl="labeled_numeric" files="pre_2011">
-      <labl>HH Net Income Higher/Lower 3500€</labl>
+      <labl>HH Net Income Higher/Lower 3500Â€</labl>
       <sumStat type="valid">74</sumStat>
       <sumStat type="invalid">1114</sumStat>
       <catgry missing="FALSE">
@@ -5840,7 +5840,7 @@
       </catgry>
     </var>
     <var ID="f34" intrvl="labeled_numeric" files="pre_2011">
-      <labl>HH Net Income Higher/Lower 5000€</labl>
+      <labl>HH Net Income Higher/Lower 5000Â€</labl>
       <sumStat type="valid">23</sumStat>
       <sumStat type="invalid">1165</sumStat>
       <catgry missing="FALSE">
@@ -6071,7 +6071,7 @@
       <sumStat type="invalid">0</sumStat>
     </var>
     <var ID="f38" intrvl="labeled_numeric" files="pre_2011">
-      <labl>Member Of HH Pay Contributions  "Riester" Or" Rürup"</labl>
+      <labl>Member Of HH Pay Contributions  "Riester" Or" RÃ¼rup"</labl>
       <sumStat type="valid">1030</sumStat>
       <sumStat type="invalid">158</sumStat>
       <catgry missing="FALSE">
@@ -6095,7 +6095,7 @@
       </catgry>
     </var>
     <var ID="f39_1" intrvl="labeled_numeric" files="pre_2011">
-      <labl>Amount Of  Contributions "Riester" Or" Rürup"</labl>
+      <labl>Amount Of  Contributions "Riester" Or" RÃ¼rup"</labl>
       <sumStat type="valid">164</sumStat>
       <sumStat type="invalid">1024</sumStat>
       <catgry missing="FALSE">
@@ -6273,7 +6273,7 @@
       </catgry>
     </var>
     <var ID="f40" intrvl="labeled_numeric" files="pre_2011">
-      <labl>Including Contributions  To "Riester" Or "Rürup" In Mentioned Savings Yes/No</labl>
+      <labl>Including Contributions  To "Riester" Or "RÃ¼rup" In Mentioned Savings Yes/No</labl>
       <sumStat type="valid">89</sumStat>
       <sumStat type="invalid">1099</sumStat>
       <catgry missing="FALSE">
@@ -6302,7 +6302,7 @@
       </catgry>
     </var>
     <var ID="f40a_1" intrvl="labeled_numeric" files="pre_2011">
-      <labl>Including Contributions  To "Riester" Or "Rürup" In Monthly Savings, Amount</labl>
+      <labl>Including Contributions  To "Riester" Or "RÃ¼rup" In Monthly Savings, Amount</labl>
       <sumStat type="valid">1</sumStat>
       <sumStat type="invalid">1187</sumStat>
       <catgry missing="FALSE">
@@ -6626,7 +6626,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Marginally ("geringfügig") or irregularly employed</labl>
+        <labl>Marginally ("geringfÃ¼gig") or irregularly employed</labl>
         <catStat type="freq"> 47</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -6781,7 +6781,7 @@
       </catgry>
     </var>
     <var ID="f50_o" intrvl="string" files="pre_2011">
-      <labl>welche berufliche tätigkeit üben sie derzeit aus?</labl>
+      <labl>welche berufliche tÃ¤tigkeit Ã¼ben sie derzeit aus?</labl>
       <sumStat type="valid">1188</sumStat>
       <sumStat type="invalid">0</sumStat>
     </var>
@@ -10686,7 +10686,7 @@
       </catgry>
     </var>
     <var ID="f77_2" intrvl="labeled_numeric" files="pre_2011">
-      <labl>ich lebe nach religiösen prinzipien.</labl>
+      <labl>ich lebe nach religiÃ¶sen prinzipien.</labl>
       <sumStat type="valid">1030</sumStat>
       <sumStat type="invalid">158</sumStat>
       <catgry missing="FALSE">
@@ -10715,12 +10715,12 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>trifft überhaupt nicht zu</labl>
+        <labl>trifft Ã¼berhaupt nicht zu</labl>
         <catStat type="freq">410</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>5</catValu>
-        <labl>weiß nicht</labl>
+        <labl>weiÃŸ nicht</labl>
         <catStat type="freq">  6</catStat>
       </catgry>
     </var>
@@ -10754,12 +10754,12 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>trifft überhaupt nicht zu</labl>
+        <labl>trifft Ã¼berhaupt nicht zu</labl>
         <catStat type="freq">119</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>5</catValu>
-        <labl>weiß nicht</labl>
+        <labl>weiÃŸ nicht</labl>
         <catStat type="freq"> 16</catStat>
       </catgry>
     </var>

@@ -3822,7 +3822,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Marginally ("geringfügig") or irregularly employed</labl>
+        <labl>Marginally ("geringfÃ¼gig") or irregularly employed</labl>
         <catStat type="freq"> 40</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -11687,7 +11687,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>8</catValu>
-        <labl>Baden-Württemberg</labl>
+        <labl>Baden-WÃ¼rttemberg</labl>
         <catStat type="freq">119</catStat>
       </catgry>
       <catgry missing="FALSE">

@@ -2203,7 +2203,7 @@
       </catgry>
     </var>
     <var ID="k1702" intrvl="labeled_numeric" files="pre_2008_muki_b">
-      <labl>Cared For Child By Child’s Father (If Not HH Member) In Normal Week (Yes/ No)</labl>
+      <labl>Cared For Child By ChildÂ’s Father (If Not HH Member) In Normal Week (Yes/ No)</labl>
       <sumStat type="valid">26</sumStat>
       <sumStat type="invalid">265</sumStat>
       <catgry missing="FALSE">
@@ -2213,7 +2213,7 @@
       </catgry>
     </var>
     <var ID="k1703" intrvl="labeled_numeric" files="pre_2008_muki_b">
-      <labl>Cared For Child By Child’s Grandparents In Normal Week (Yes/ No)</labl>
+      <labl>Cared For Child By ChildÂ’s Grandparents In Normal Week (Yes/ No)</labl>
       <sumStat type="valid">169</sumStat>
       <sumStat type="invalid">122</sumStat>
       <catgry missing="FALSE">
@@ -2223,7 +2223,7 @@
       </catgry>
     </var>
     <var ID="k1704" intrvl="labeled_numeric" files="pre_2008_muki_b">
-      <labl>Cared For Child By Child’s Elder Siblings In Normal Week (Yes/ No)</labl>
+      <labl>Cared For Child By ChildÂ’s Elder Siblings In Normal Week (Yes/ No)</labl>
       <sumStat type="valid">38</sumStat>
       <sumStat type="invalid">253</sumStat>
       <catgry missing="FALSE">
@@ -7919,7 +7919,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>schlönern (2)</labl>
+        <labl>schlÃ¶nern (2)</labl>
         <catStat type="freq">  4</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -8304,22 +8304,22 @@
       <sumStat type="invalid">0</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>igäde (1)</labl>
+        <labl>igÃ¤de (1)</labl>
         <catStat type="freq"> 14</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>dägie (2)</labl>
+        <labl>dÃ¤gie (2)</labl>
         <catStat type="freq"> 14</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>Ägide (3)</labl>
+        <labl>Ã„gide (3)</labl>
         <catStat type="freq">222</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>digäde (4)</labl>
+        <labl>digÃ¤de (4)</labl>
         <catStat type="freq"> 12</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -8534,7 +8534,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>5</catValu>
-        <labl>ilschah´ (5)</labl>
+        <labl>ilschahÂ´ (5)</labl>
         <catStat type="freq"> 29</catStat>
       </catgry>
     </var>

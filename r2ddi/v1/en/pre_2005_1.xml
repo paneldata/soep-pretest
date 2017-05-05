@@ -1025,7 +1025,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>Specialized upper secondary school-leaving certificate (Fachoberschule )</labl>
+        <labl>Specialized upper secondary school-leaving certificate (FachoberschuleÂ )</labl>
         <catStat type="freq"> 39</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -1050,7 +1050,7 @@
       <sumStat type="invalid">287</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>Baden-Württemberg</labl>
+        <labl>Baden-WÃ¼rttemberg</labl>
         <catStat type="freq"> 92</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -5245,7 +5245,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Marginally ("geringfügig") or irregularly employed</labl>
+        <labl>Marginally ("geringfÃ¼gig") or irregularly employed</labl>
         <catStat type="freq"> 30</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -5454,7 +5454,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>6</catValu>
-        <labl>Between 200 and less than 1,999 </labl>
+        <labl>Between 200 and less than 1,999Â </labl>
         <catStat type="freq"> 61</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -17724,42 +17724,42 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>Under 5.000 €</labl>
+        <labl>Under 5.000 Â€</labl>
         <catStat type="freq">129</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>5.000 € to 20.000 €</labl>
+        <labl>5.000 Â€ to 20.000 Â€</labl>
         <catStat type="freq">156</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>20.000 € to 50.000 €</labl>
+        <labl>20.000 Â€ to 50.000 Â€</labl>
         <catStat type="freq"> 90</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>5</catValu>
-        <labl>50.000 € to 100.000 €</labl>
+        <labl>50.000 Â€ to 100.000 Â€</labl>
         <catStat type="freq"> 59</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>6</catValu>
-        <labl>100.000 € to 200.000 €</labl>
+        <labl>100.000 Â€ to 200.000 Â€</labl>
         <catStat type="freq"> 65</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>7</catValu>
-        <labl>200.000 € to 500.000 €</labl>
+        <labl>200.000 Â€ to 500.000 Â€</labl>
         <catStat type="freq"> 97</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>8</catValu>
-        <labl>500.000 € to 1.000.000 €</labl>
+        <labl>500.000 Â€ to 1.000.000 Â€</labl>
         <catStat type="freq"> 30</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>9</catValu>
-        <labl>1.000.000€ and more</labl>
+        <labl>1.000.000Â€ and more</labl>
         <catStat type="freq">  3</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -25116,7 +25116,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>21</catValu>
-        <labl>( &lt; 1500) less or more than  750 = NA</labl>
+        <labl>( &lt; 1500) less or more than Â 750 = NA</labl>
         <catStat type="freq">  6</catStat>
       </catgry>
       <catgry missing="TRUE">
@@ -25564,7 +25564,7 @@
       <sumStat type="invalid">480</sumStat>
     </var>
     <var ID="z1spaet" intrvl="numeric" files="pre_2005_1">
-      <labl>Time Preference Experiment: Z1 - Change in line…</labl>
+      <labl>Time Preference Experiment: Z1 - Change in lineÂ…</labl>
       <sumStat type="Min.">1</sumStat>
       <sumStat type="1st Qu.">8</sumStat>
       <sumStat type="Median">15</sumStat>
@@ -25576,7 +25576,7 @@
       <sumStat type="invalid">512</sumStat>
     </var>
     <var ID="z2spaet" intrvl="numeric" files="pre_2005_1">
-      <labl>Time Preference Experiment: Z2 - Change in line…</labl>
+      <labl>Time Preference Experiment: Z2 - Change in lineÂ…</labl>
       <sumStat type="Min.">1</sumStat>
       <sumStat type="1st Qu.">5</sumStat>
       <sumStat type="Median">11</sumStat>
@@ -25588,7 +25588,7 @@
       <sumStat type="invalid">512</sumStat>
     </var>
     <var ID="z3spaet" intrvl="numeric" files="pre_2005_1">
-      <labl>Time Preference Experiment: Z3 - Change in line…</labl>
+      <labl>Time Preference Experiment: Z3 - Change in lineÂ…</labl>
       <sumStat type="Min.">1</sumStat>
       <sumStat type="1st Qu.">7</sumStat>
       <sumStat type="Median">16</sumStat>
@@ -26947,7 +26947,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>8</catValu>
-        <labl>Baden-Württemberg</labl>
+        <labl>Baden-WÃ¼rttemberg</labl>
         <catStat type="freq">117</catStat>
       </catgry>
       <catgry missing="FALSE">

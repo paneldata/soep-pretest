@@ -1264,7 +1264,7 @@
       </catgry>
     </var>
     <var ID="f1302" intrvl="labeled_numeric" files="pre_2007_muki_a">
-      <labl>Cared For Child By Child’s Father (If Not HH Member) In Normal Week (Yes/ No)</labl>
+      <labl>Cared For Child By ChildÂ’s Father (If Not HH Member) In Normal Week (Yes/ No)</labl>
       <sumStat type="valid">31</sumStat>
       <sumStat type="invalid">182</sumStat>
       <catgry missing="FALSE">
@@ -2370,7 +2370,7 @@
       </catgry>
     </var>
     <var ID="f1904" intrvl="labeled_numeric" files="pre_2007_muki_a">
-      <labl>Child: Children’s Choir</labl>
+      <labl>Child: ChildrenÂ’s Choir</labl>
       <sumStat type="valid">9</sumStat>
       <sumStat type="invalid">204</sumStat>
       <catgry missing="FALSE">
@@ -3930,7 +3930,7 @@
       <sumStat type="invalid">0</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>Married to the child’s biological father and living together with him</labl>
+        <labl>Married to the childÂ’s biological father and living together with him</labl>
         <catStat type="freq">148</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -3940,7 +3940,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>Married to the child’s biological father but permanently separated</labl>
+        <labl>Married to the childÂ’s biological father but permanently separated</labl>
         <catStat type="freq">  5</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -3970,7 +3970,7 @@
       <sumStat type="invalid">150</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>Yes, to the child’s father</labl>
+        <labl>Yes, to the childÂ’s father</labl>
         <catStat type="freq"> 18</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -4070,7 +4070,7 @@
       <sumStat type="invalid">0</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>Yes, the child’s biological father</labl>
+        <labl>Yes, the childÂ’s biological father</labl>
         <catStat type="freq">165</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -4079,7 +4079,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>Yes, the child’s stepfather, foster father, or adoptive father</labl>
+        <labl>Yes, the childÂ’s stepfather, foster father, or adoptive father</labl>
         <catStat type="freq">  1</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -4488,7 +4488,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Don’t know</labl>
+        <labl>DonÂ’t know</labl>
         <catStat type="freq">  0</catStat>
       </catgry>
     </var>
@@ -4517,7 +4517,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Don’t know</labl>
+        <labl>DonÂ’t know</labl>
         <catStat type="freq">  1</catStat>
       </catgry>
     </var>
@@ -4624,7 +4624,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Foreman (Vorarbeiter, Kolonnenführer)</labl>
+        <labl>Foreman (Vorarbeiter, KolonnenfÃ¼hrer)</labl>
         <catStat type="freq">  0</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -4658,7 +4658,7 @@
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>Foreman (Vorarbeiter, Kolonnenführer)</labl>
+        <labl>Foreman (Vorarbeiter, KolonnenfÃ¼hrer)</labl>
         <catStat type="freq">  4</catStat>
       </catgry>
       <catgry missing="FALSE">
@@ -6113,7 +6113,7 @@
       <sumStat type="invalid">0</sumStat>
     </var>
     <var ID="i1f2701" intrvl="labeled_numeric" files="pre_2007_muki_a">
-      <labl>Understandability: Rating of The Child’s Personality Traits (Question 27)</labl>
+      <labl>Understandability: Rating of The ChildÂ’s Personality Traits (Question 27)</labl>
       <sumStat type="valid">213</sumStat>
       <sumStat type="invalid">0</sumStat>
       <catgry missing="FALSE">
@@ -6140,7 +6140,7 @@
       </catgry>
     </var>
     <var ID="i1f2702" intrvl="labeled_numeric" files="pre_2007_muki_a">
-      <labl>Willingness To Answer: Rating of The Child’s Personality Traits (Question 27)</labl>
+      <labl>Willingness To Answer: Rating of The ChildÂ’s Personality Traits (Question 27)</labl>
       <sumStat type="valid">213</sumStat>
       <sumStat type="invalid">0</sumStat>
       <catgry missing="FALSE">
@@ -6167,7 +6167,7 @@
       </catgry>
     </var>
     <var ID="i1f2703" intrvl="string" files="pre_2007_muki_a">
-      <labl>Other Comments: Rating of The Child’s Personality Traits (Question 27)</labl>
+      <labl>Other Comments: Rating of The ChildÂ’s Personality Traits (Question 27)</labl>
       <sumStat type="valid">213</sumStat>
       <sumStat type="invalid">0</sumStat>
     </var>
@@ -6424,32 +6424,32 @@
       <sumStat type="invalid">0</sumStat>
       <catgry missing="FALSE">
         <catValu>1</catValu>
-        <labl>1 – 1,999 inhabitants</labl>
+        <labl>1 Â– 1,999 inhabitants</labl>
         <catStat type="freq">22</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>2</catValu>
-        <labl>2,000 – 4,999 inhabitants</labl>
+        <labl>2,000 Â– 4,999 inhabitants</labl>
         <catStat type="freq">18</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>3</catValu>
-        <labl>5,000 – 19,999 inhabitants</labl>
+        <labl>5,000 Â– 19,999 inhabitants</labl>
         <catStat type="freq">74</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>4</catValu>
-        <labl>20,000 – 49,999 inhabitants</labl>
+        <labl>20,000 Â– 49,999 inhabitants</labl>
         <catStat type="freq">36</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>5</catValu>
-        <labl>50,000 – 99 ,999 inhabitants</labl>
+        <labl>50,000 Â– 99 ,999 inhabitants</labl>
         <catStat type="freq">13</catStat>
       </catgry>
       <catgry missing="FALSE">
         <catValu>6</catValu>
-        <labl>100,000 – 499,999 inhabitants</labl>
+        <labl>100,000 Â– 499,999 inhabitants</labl>
         <catStat type="freq">31</catStat>
       </catgry>
       <catgry missing="FALSE">
