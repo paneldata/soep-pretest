@@ -34,7 +34,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "fallnr11": {
     "study": "soep-pre",
@@ -71,7 +74,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "intnum": {
     "study": "soep-pre",
@@ -108,7 +114,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "welle1": {
     "study": "soep-pre",
@@ -149,7 +158,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "welle2": {
     "study": "soep-pre",
@@ -190,7 +202,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f1_1": {
     "study": "soep-pre",
@@ -267,7 +282,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f2_1": {
     "study": "soep-pre",
@@ -324,7 +342,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f2_2": {
     "study": "soep-pre",
@@ -381,7 +402,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f2_3": {
     "study": "soep-pre",
@@ -438,7 +462,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f2_4": {
     "study": "soep-pre",
@@ -495,7 +522,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f3_1": {
     "study": "soep-pre",
@@ -840,7 +870,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f4_1": {
     "study": "soep-pre",
@@ -921,7 +954,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f5": {
     "study": "soep-pre",
@@ -958,7 +994,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f6_1": {
     "study": "soep-pre",
@@ -1015,7 +1054,10 @@
         "1047"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f6_2": {
     "study": "soep-pre",
@@ -1072,7 +1114,10 @@
         "1047"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f6_3": {
     "study": "soep-pre",
@@ -1129,7 +1174,10 @@
         "1047"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f6_4": {
     "study": "soep-pre",
@@ -1186,7 +1234,10 @@
         "1047"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f6b_1": {
     "study": "soep-pre",
@@ -1243,7 +1294,10 @@
         "1103"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f6b_2": {
     "study": "soep-pre",
@@ -1300,7 +1354,10 @@
         "1103"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f6b_3": {
     "study": "soep-pre",
@@ -1357,7 +1414,10 @@
         "1103"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f6b_4": {
     "study": "soep-pre",
@@ -1414,7 +1474,10 @@
         "1103"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "split_f6_1": {
     "study": "soep-pre",
@@ -1455,7 +1518,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_1": {
     "study": "soep-pre",
@@ -1520,7 +1586,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_2": {
     "study": "soep-pre",
@@ -1585,7 +1654,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_3": {
     "study": "soep-pre",
@@ -1650,7 +1722,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_4": {
     "study": "soep-pre",
@@ -1715,7 +1790,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_5": {
     "study": "soep-pre",
@@ -1780,7 +1858,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_6": {
     "study": "soep-pre",
@@ -1845,7 +1926,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_7": {
     "study": "soep-pre",
@@ -1910,7 +1994,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_8": {
     "study": "soep-pre",
@@ -1975,7 +2062,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_9": {
     "study": "soep-pre",
@@ -2040,7 +2130,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_10": {
     "study": "soep-pre",
@@ -2105,7 +2198,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_11": {
     "study": "soep-pre",
@@ -2170,7 +2266,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_12": {
     "study": "soep-pre",
@@ -2235,7 +2334,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_13": {
     "study": "soep-pre",
@@ -2300,7 +2402,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_14": {
     "study": "soep-pre",
@@ -2365,7 +2470,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_15": {
     "study": "soep-pre",
@@ -2430,7 +2538,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_16": {
     "study": "soep-pre",
@@ -2495,7 +2606,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_17": {
     "study": "soep-pre",
@@ -2560,7 +2674,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_18": {
     "study": "soep-pre",
@@ -2625,7 +2742,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_19": {
     "study": "soep-pre",
@@ -2690,7 +2810,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_20": {
     "study": "soep-pre",
@@ -2755,7 +2878,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_21": {
     "study": "soep-pre",
@@ -2820,7 +2946,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_22": {
     "study": "soep-pre",
@@ -2885,7 +3014,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_23": {
     "study": "soep-pre",
@@ -2950,7 +3082,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_24": {
     "study": "soep-pre",
@@ -3015,7 +3150,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_25": {
     "study": "soep-pre",
@@ -3080,7 +3218,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_26": {
     "study": "soep-pre",
@@ -3145,7 +3286,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_27": {
     "study": "soep-pre",
@@ -3210,7 +3354,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_28": {
     "study": "soep-pre",
@@ -3275,7 +3422,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_29": {
     "study": "soep-pre",
@@ -3340,7 +3490,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f7_30": {
     "study": "soep-pre",
@@ -3405,7 +3558,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "split_f7": {
     "study": "soep-pre",
@@ -3446,7 +3602,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f8_1": {
     "study": "soep-pre",
@@ -3511,7 +3670,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f8_2": {
     "study": "soep-pre",
@@ -3576,7 +3738,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f9_1": {
     "study": "soep-pre",
@@ -3641,7 +3806,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f10_1": {
     "study": "soep-pre",
@@ -3722,7 +3890,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f11_1": {
     "study": "soep-pre",
@@ -3787,7 +3958,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f11_2": {
     "study": "soep-pre",
@@ -3852,7 +4026,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f11_3": {
     "study": "soep-pre",
@@ -3917,7 +4094,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f11_4": {
     "study": "soep-pre",
@@ -3982,7 +4162,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f11_5": {
     "study": "soep-pre",
@@ -4047,7 +4230,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f11_6": {
     "study": "soep-pre",
@@ -4112,7 +4298,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_1": {
     "study": "soep-pre",
@@ -4177,7 +4366,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_2": {
     "study": "soep-pre",
@@ -4242,7 +4434,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_3": {
     "study": "soep-pre",
@@ -4307,7 +4502,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_4": {
     "study": "soep-pre",
@@ -4372,7 +4570,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_5": {
     "study": "soep-pre",
@@ -4437,7 +4638,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_6": {
     "study": "soep-pre",
@@ -4502,7 +4706,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_7": {
     "study": "soep-pre",
@@ -4567,7 +4774,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_8": {
     "study": "soep-pre",
@@ -4632,7 +4842,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_9": {
     "study": "soep-pre",
@@ -4697,7 +4910,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_10": {
     "study": "soep-pre",
@@ -4762,7 +4978,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_11": {
     "study": "soep-pre",
@@ -4827,7 +5046,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_12": {
     "study": "soep-pre",
@@ -4892,7 +5114,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_13": {
     "study": "soep-pre",
@@ -4957,7 +5182,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_14": {
     "study": "soep-pre",
@@ -5022,7 +5250,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f12_15": {
     "study": "soep-pre",
@@ -5087,7 +5318,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f14_1": {
     "study": "soep-pre",
@@ -5148,7 +5382,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f14_2": {
     "study": "soep-pre",
@@ -5209,7 +5446,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f15_1": {
     "study": "soep-pre",
@@ -5270,7 +5510,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f15_2": {
     "study": "soep-pre",
@@ -5331,7 +5574,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f16_1": {
     "study": "soep-pre",
@@ -5392,7 +5638,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f16_2": {
     "study": "soep-pre",
@@ -5453,7 +5702,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f17_1": {
     "study": "soep-pre",
@@ -5514,7 +5766,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f17_2": {
     "study": "soep-pre",
@@ -5575,7 +5830,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f18_1": {
     "study": "soep-pre",
@@ -5640,7 +5898,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f18_2": {
     "study": "soep-pre",
@@ -5705,7 +5966,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f18_3": {
     "study": "soep-pre",
@@ -5770,7 +6034,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f18_4": {
     "study": "soep-pre",
@@ -5835,7 +6102,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f18_5": {
     "study": "soep-pre",
@@ -5900,7 +6170,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f18_6": {
     "study": "soep-pre",
@@ -5965,7 +6238,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f19": {
     "study": "soep-pre",
@@ -6026,7 +6302,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f20_1": {
     "study": "soep-pre",
@@ -6103,7 +6382,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f20_2": {
     "study": "soep-pre",
@@ -6180,7 +6462,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f21": {
     "study": "soep-pre",
@@ -6241,7 +6526,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f22": {
     "study": "soep-pre",
@@ -6286,7 +6574,10 @@
         "614"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f23": {
     "study": "soep-pre",
@@ -6331,7 +6622,10 @@
         "1019"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_1": {
     "study": "soep-pre",
@@ -6368,7 +6662,10 @@
         "713"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_2": {
     "study": "soep-pre",
@@ -6405,7 +6702,10 @@
         "1082"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_3": {
     "study": "soep-pre",
@@ -6442,7 +6742,10 @@
         "1163"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_4": {
     "study": "soep-pre",
@@ -6479,7 +6782,10 @@
         "1115"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_5": {
     "study": "soep-pre",
@@ -6516,7 +6822,10 @@
         "1184"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_6": {
     "study": "soep-pre",
@@ -6553,7 +6862,10 @@
         "1182"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_7": {
     "study": "soep-pre",
@@ -6590,7 +6902,10 @@
         "1177"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_8": {
     "study": "soep-pre",
@@ -6627,7 +6942,10 @@
         "1157"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_9": {
     "study": "soep-pre",
@@ -6664,7 +6982,10 @@
         "1188"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_10": {
     "study": "soep-pre",
@@ -6701,7 +7022,10 @@
         "1174"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_11": {
     "study": "soep-pre",
@@ -6738,7 +7062,10 @@
         "1155"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_12": {
     "study": "soep-pre",
@@ -6775,7 +7102,10 @@
         "679"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f24_13": {
     "study": "soep-pre",
@@ -6812,7 +7142,10 @@
         "1179"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f25_1": {
     "study": "soep-pre",
@@ -6873,7 +7206,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f26_1": {
     "study": "soep-pre",
@@ -6938,7 +7274,10 @@
         "378"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f27_1": {
     "study": "soep-pre",
@@ -6995,7 +7334,10 @@
         "378"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f27_2": {
     "study": "soep-pre",
@@ -7044,7 +7386,10 @@
         "378"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f27_3": {
     "study": "soep-pre",
@@ -7093,7 +7438,10 @@
         "378"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f27_4": {
     "study": "soep-pre",
@@ -7150,7 +7498,10 @@
         "378"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f27_5": {
     "study": "soep-pre",
@@ -7203,7 +7554,10 @@
         "378"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f27_6": {
     "study": "soep-pre",
@@ -7264,7 +7618,10 @@
         "378"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f28": {
     "study": "soep-pre",
@@ -7325,7 +7682,10 @@
         "376"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f29_1": {
     "study": "soep-pre",
@@ -7934,7 +8294,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f30": {
     "study": "soep-pre",
@@ -7979,7 +8342,10 @@
         "927"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f31": {
     "study": "soep-pre",
@@ -8024,7 +8390,10 @@
         "1132"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f32": {
     "study": "soep-pre",
@@ -8069,7 +8438,10 @@
         "1038"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f33": {
     "study": "soep-pre",
@@ -8114,7 +8486,10 @@
         "1114"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f34": {
     "study": "soep-pre",
@@ -8159,7 +8534,10 @@
         "1165"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f35": {
     "study": "soep-pre",
@@ -8204,7 +8582,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f36_1": {
     "study": "soep-pre",
@@ -8405,7 +8786,10 @@
         "600"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f37_o": {
     "study": "soep-pre",
@@ -8430,7 +8814,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f38": {
     "study": "soep-pre",
@@ -8475,7 +8862,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f39_1": {
     "study": "soep-pre",
@@ -8676,7 +9066,10 @@
         "1024"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f40": {
     "study": "soep-pre",
@@ -8725,7 +9118,10 @@
         "1099"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f40a_1": {
     "study": "soep-pre",
@@ -8766,7 +9162,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f41": {
     "study": "soep-pre",
@@ -8811,7 +9210,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f42_1": {
     "study": "soep-pre",
@@ -9032,7 +9434,10 @@
         "953"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f43": {
     "study": "soep-pre",
@@ -9081,7 +9486,10 @@
         "1050"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f43a_1": {
     "study": "soep-pre",
@@ -9134,7 +9542,10 @@
         "1182"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f44": {
     "study": "soep-pre",
@@ -9199,7 +9610,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f45": {
     "study": "soep-pre",
@@ -9244,7 +9658,10 @@
         "472"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f46": {
     "study": "soep-pre",
@@ -9289,7 +9706,10 @@
         "1099"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f47": {
     "study": "soep-pre",
@@ -9342,7 +9762,10 @@
         "503"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f48": {
     "study": "soep-pre",
@@ -9387,7 +9810,10 @@
         "966"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f49": {
     "study": "soep-pre",
@@ -9432,7 +9858,10 @@
         "966"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f50_o": {
     "study": "soep-pre",
@@ -9457,7 +9886,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f51": {
     "study": "soep-pre",
@@ -9502,7 +9934,10 @@
         "680"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f52_o": {
     "study": "soep-pre",
@@ -9527,7 +9962,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f53": {
     "study": "soep-pre",
@@ -9584,7 +10022,10 @@
         "680"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f54": {
     "study": "soep-pre",
@@ -9629,7 +10070,10 @@
         "769"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f55": {
     "study": "soep-pre",
@@ -9686,7 +10130,10 @@
         "1104"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f56": {
     "study": "soep-pre",
@@ -9747,7 +10194,10 @@
         "896"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f57": {
     "study": "soep-pre",
@@ -9800,7 +10250,10 @@
         "1157"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f58": {
     "study": "soep-pre",
@@ -9849,7 +10302,10 @@
         "1175"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f59": {
     "study": "soep-pre",
@@ -9894,7 +10350,10 @@
         "756"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f60": {
     "study": "soep-pre",
@@ -9959,7 +10418,10 @@
         "1098"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f61": {
     "study": "soep-pre",
@@ -10028,7 +10490,10 @@
         "1098"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "split_f60_61": {
     "study": "soep-pre",
@@ -10069,7 +10534,10 @@
         "962"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f62": {
     "study": "soep-pre",
@@ -10122,7 +10590,10 @@
         "1112"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f63": {
     "study": "soep-pre",
@@ -10171,7 +10642,10 @@
         "1116"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f64_1": {
     "study": "soep-pre",
@@ -10412,7 +10886,10 @@
         "756"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f65_1": {
     "study": "soep-pre",
@@ -10665,7 +11142,10 @@
         "680"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f66_1": {
     "study": "soep-pre",
@@ -11166,7 +11646,10 @@
         "670"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f66_2": {
     "study": "soep-pre",
@@ -11719,7 +12202,10 @@
         "670"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f67_1": {
     "study": "soep-pre",
@@ -11800,7 +12286,10 @@
         "869"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f68_1": {
     "study": "soep-pre",
@@ -12057,7 +12546,10 @@
         "939"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f68_2_0": {
     "study": "soep-pre",
@@ -12094,7 +12586,10 @@
         "1132"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f69_1": {
     "study": "soep-pre",
@@ -12171,7 +12666,10 @@
         "869"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f70_1": {
     "study": "soep-pre",
@@ -12400,7 +12898,10 @@
         "1016"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f70_2_5": {
     "study": "soep-pre",
@@ -12437,7 +12938,10 @@
         "1170"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f71_1": {
     "study": "soep-pre",
@@ -12694,7 +13198,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f71_2": {
     "study": "soep-pre",
@@ -13055,7 +13562,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f72_1": {
     "study": "soep-pre",
@@ -13308,7 +13818,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f72_2": {
     "study": "soep-pre",
@@ -13609,7 +14122,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f73_1": {
     "study": "soep-pre",
@@ -13658,7 +14174,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f74_1": {
     "study": "soep-pre",
@@ -13707,7 +14226,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f75_1": {
     "study": "soep-pre",
@@ -13756,7 +14278,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f76_1": {
     "study": "soep-pre",
@@ -13941,7 +14466,10 @@
         "298"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f76_2_1": {
     "study": "soep-pre",
@@ -13978,7 +14506,10 @@
         "1053"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f76_2_2": {
     "study": "soep-pre",
@@ -14015,7 +14546,10 @@
         "1183"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f77_1": {
     "study": "soep-pre",
@@ -14072,7 +14606,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f77_2": {
     "study": "soep-pre",
@@ -14129,7 +14666,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f77_3": {
     "study": "soep-pre",
@@ -14186,7 +14726,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f77_4": {
     "study": "soep-pre",
@@ -14243,7 +14786,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f77_5": {
     "study": "soep-pre",
@@ -14300,7 +14846,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f77_6": {
     "study": "soep-pre",
@@ -14357,7 +14906,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f78_1": {
     "study": "soep-pre",
@@ -14414,7 +14966,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f78_2": {
     "study": "soep-pre",
@@ -14471,7 +15026,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f79_1": {
     "study": "soep-pre",
@@ -14528,7 +15086,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_1": {
     "study": "soep-pre",
@@ -14567,7 +15128,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_2": {
     "study": "soep-pre",
@@ -14606,7 +15170,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_3": {
     "study": "soep-pre",
@@ -14645,7 +15212,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_4": {
     "study": "soep-pre",
@@ -14684,7 +15254,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_5": {
     "study": "soep-pre",
@@ -14723,7 +15296,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_6": {
     "study": "soep-pre",
@@ -14762,7 +15338,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_7": {
     "study": "soep-pre",
@@ -14801,7 +15380,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_8": {
     "study": "soep-pre",
@@ -14840,7 +15422,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_9": {
     "study": "soep-pre",
@@ -14879,7 +15464,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_10": {
     "study": "soep-pre",
@@ -14918,7 +15506,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_11": {
     "study": "soep-pre",
@@ -14957,7 +15548,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_12": {
     "study": "soep-pre",
@@ -14996,7 +15590,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_13": {
     "study": "soep-pre",
@@ -15035,7 +15632,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_14": {
     "study": "soep-pre",
@@ -15074,7 +15674,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_15": {
     "study": "soep-pre",
@@ -15113,7 +15716,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80_16": {
     "study": "soep-pre",
@@ -15152,7 +15758,10 @@
         "6"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f80ka": {
     "study": "soep-pre",
@@ -15189,7 +15798,10 @@
         "1182"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f81_1": {
     "study": "soep-pre",
@@ -15246,7 +15858,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f81_2": {
     "study": "soep-pre",
@@ -15303,7 +15918,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f81_3": {
     "study": "soep-pre",
@@ -15360,7 +15978,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f81_4": {
     "study": "soep-pre",
@@ -15417,7 +16038,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f81_5": {
     "study": "soep-pre",
@@ -15474,7 +16098,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f81_6": {
     "study": "soep-pre",
@@ -15531,7 +16158,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f82_1": {
     "study": "soep-pre",
@@ -15588,7 +16218,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f82_2": {
     "study": "soep-pre",
@@ -15645,7 +16278,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f82_3": {
     "study": "soep-pre",
@@ -15702,7 +16338,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f82_4": {
     "study": "soep-pre",
@@ -15759,7 +16398,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f82_5": {
     "study": "soep-pre",
@@ -15816,7 +16458,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f82_6": {
     "study": "soep-pre",
@@ -15873,7 +16518,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f82_7": {
     "study": "soep-pre",
@@ -15930,7 +16578,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f82_8": {
     "study": "soep-pre",
@@ -15987,7 +16638,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f83": {
     "study": "soep-pre",
@@ -16036,7 +16690,10 @@
         "67"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f84": {
     "study": "soep-pre",
@@ -16081,7 +16738,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f85": {
     "study": "soep-pre",
@@ -16130,7 +16790,10 @@
         "35"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f86": {
     "study": "soep-pre",
@@ -16187,7 +16850,10 @@
         "344"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f87": {
     "study": "soep-pre",
@@ -16240,7 +16906,10 @@
         "972"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f88": {
     "study": "soep-pre",
@@ -16265,7 +16934,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f89": {
     "study": "soep-pre",
@@ -16310,7 +16982,10 @@
         "1096"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f90": {
     "study": "soep-pre",
@@ -16351,7 +17026,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f91_1": {
     "study": "soep-pre",
@@ -16388,7 +17066,10 @@
         "861"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f91_2": {
     "study": "soep-pre",
@@ -16425,7 +17106,10 @@
         "907"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f91_3": {
     "study": "soep-pre",
@@ -16462,7 +17146,10 @@
         "1120"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f91_4": {
     "study": "soep-pre",
@@ -16499,7 +17186,10 @@
         "1132"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f91_5": {
     "study": "soep-pre",
@@ -16536,7 +17226,10 @@
         "1133"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f91_6": {
     "study": "soep-pre",
@@ -16573,7 +17266,10 @@
         "1159"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f91_7": {
     "study": "soep-pre",
@@ -16610,7 +17306,10 @@
         "1116"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f91_8": {
     "study": "soep-pre",
@@ -16647,7 +17346,10 @@
         "1069"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f91_9": {
     "study": "soep-pre",
@@ -16684,7 +17386,10 @@
         "1159"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f91_10": {
     "study": "soep-pre",
@@ -16721,7 +17426,10 @@
         "1175"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f91_11": {
     "study": "soep-pre",
@@ -16758,7 +17466,10 @@
         "1185"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f92": {
     "study": "soep-pre",
@@ -16783,7 +17494,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f93": {
     "study": "soep-pre",
@@ -16824,7 +17538,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f94": {
     "study": "soep-pre",
@@ -16909,7 +17626,10 @@
         "274"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_1": {
     "study": "soep-pre",
@@ -16934,7 +17654,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_1": {
     "study": "soep-pre",
@@ -16979,7 +17702,10 @@
         "287"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_1": {
     "study": "soep-pre",
@@ -17368,7 +18094,10 @@
         "287"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_1": {
     "study": "soep-pre",
@@ -17421,7 +18150,10 @@
         "407"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_1": {
     "study": "soep-pre",
@@ -17470,7 +18202,10 @@
         "473"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_1": {
     "study": "soep-pre",
@@ -17571,7 +18306,10 @@
         "407"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_2": {
     "study": "soep-pre",
@@ -17596,7 +18334,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_2": {
     "study": "soep-pre",
@@ -17641,7 +18382,10 @@
         "671"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_2": {
     "study": "soep-pre",
@@ -18030,7 +18774,10 @@
         "671"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_2": {
     "study": "soep-pre",
@@ -18083,7 +18830,10 @@
         "738"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_2": {
     "study": "soep-pre",
@@ -18132,7 +18882,10 @@
         "993"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_2": {
     "study": "soep-pre",
@@ -18233,7 +18986,10 @@
         "738"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_3": {
     "study": "soep-pre",
@@ -18258,7 +19014,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_3": {
     "study": "soep-pre",
@@ -18303,7 +19062,10 @@
         "920"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_3": {
     "study": "soep-pre",
@@ -18652,7 +19414,10 @@
         "920"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_3": {
     "study": "soep-pre",
@@ -18705,7 +19470,10 @@
         "955"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_3": {
     "study": "soep-pre",
@@ -18754,7 +19522,10 @@
         "1107"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_3": {
     "study": "soep-pre",
@@ -18855,7 +19626,10 @@
         "957"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_4": {
     "study": "soep-pre",
@@ -18880,7 +19654,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_4": {
     "study": "soep-pre",
@@ -18925,7 +19702,10 @@
         "1036"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_4": {
     "study": "soep-pre",
@@ -19218,7 +19998,10 @@
         "1036"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_4": {
     "study": "soep-pre",
@@ -19271,7 +20054,10 @@
         "1052"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_4": {
     "study": "soep-pre",
@@ -19320,7 +20106,10 @@
         "1135"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_4": {
     "study": "soep-pre",
@@ -19417,7 +20206,10 @@
         "1054"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_5": {
     "study": "soep-pre",
@@ -19442,7 +20234,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_5": {
     "study": "soep-pre",
@@ -19487,7 +20282,10 @@
         "1100"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_5": {
     "study": "soep-pre",
@@ -19696,7 +20494,10 @@
         "1100"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_5": {
     "study": "soep-pre",
@@ -19749,7 +20550,10 @@
         "1110"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_5": {
     "study": "soep-pre",
@@ -19798,7 +20602,10 @@
         "1117"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_5": {
     "study": "soep-pre",
@@ -19883,7 +20690,10 @@
         "1110"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_6": {
     "study": "soep-pre",
@@ -19908,7 +20718,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_6": {
     "study": "soep-pre",
@@ -19953,7 +20766,10 @@
         "1142"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_6": {
     "study": "soep-pre",
@@ -20122,7 +20938,10 @@
         "1142"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_6": {
     "study": "soep-pre",
@@ -20175,7 +20994,10 @@
         "1147"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_6": {
     "study": "soep-pre",
@@ -20224,7 +21046,10 @@
         "1152"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_6": {
     "study": "soep-pre",
@@ -20289,7 +21114,10 @@
         "1147"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_7": {
     "study": "soep-pre",
@@ -20314,7 +21142,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_7": {
     "study": "soep-pre",
@@ -20359,7 +21190,10 @@
         "1159"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_7": {
     "study": "soep-pre",
@@ -20480,7 +21314,10 @@
         "1159"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_7": {
     "study": "soep-pre",
@@ -20533,7 +21370,10 @@
         "1160"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_7": {
     "study": "soep-pre",
@@ -20582,7 +21422,10 @@
         "1162"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_7": {
     "study": "soep-pre",
@@ -20643,7 +21486,10 @@
         "1160"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_8": {
     "study": "soep-pre",
@@ -20668,7 +21514,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_8": {
     "study": "soep-pre",
@@ -20713,7 +21562,10 @@
         "1174"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_8": {
     "study": "soep-pre",
@@ -20794,7 +21646,10 @@
         "1174"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_8": {
     "study": "soep-pre",
@@ -20847,7 +21702,10 @@
         "1174"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_8": {
     "study": "soep-pre",
@@ -20896,7 +21754,10 @@
         "1176"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_8": {
     "study": "soep-pre",
@@ -20945,7 +21806,10 @@
         "1174"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_9": {
     "study": "soep-pre",
@@ -20970,7 +21834,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_9": {
     "study": "soep-pre",
@@ -21015,7 +21882,10 @@
         "1178"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_9": {
     "study": "soep-pre",
@@ -21084,7 +21954,10 @@
         "1178"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_9": {
     "study": "soep-pre",
@@ -21137,7 +22010,10 @@
         "1178"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_9": {
     "study": "soep-pre",
@@ -21186,7 +22062,10 @@
         "1179"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_9": {
     "study": "soep-pre",
@@ -21235,7 +22114,10 @@
         "1178"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_10": {
     "study": "soep-pre",
@@ -21260,7 +22142,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_10": {
     "study": "soep-pre",
@@ -21305,7 +22190,10 @@
         "1185"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_10": {
     "study": "soep-pre",
@@ -21350,7 +22238,10 @@
         "1185"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_10": {
     "study": "soep-pre",
@@ -21403,7 +22294,10 @@
         "1185"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_10": {
     "study": "soep-pre",
@@ -21452,7 +22346,10 @@
         "1186"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_10": {
     "study": "soep-pre",
@@ -21493,7 +22390,10 @@
         "1185"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_11": {
     "study": "soep-pre",
@@ -21518,7 +22418,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_11": {
     "study": "soep-pre",
@@ -21563,7 +22466,10 @@
         "1185"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_11": {
     "study": "soep-pre",
@@ -21608,7 +22514,10 @@
         "1185"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_11": {
     "study": "soep-pre",
@@ -21661,7 +22570,10 @@
         "1185"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_11": {
     "study": "soep-pre",
@@ -21710,7 +22622,10 @@
         "1186"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_11": {
     "study": "soep-pre",
@@ -21755,7 +22670,10 @@
         "1185"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_12": {
     "study": "soep-pre",
@@ -21780,7 +22698,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_12": {
     "study": "soep-pre",
@@ -21825,7 +22746,10 @@
         "1186"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_12": {
     "study": "soep-pre",
@@ -21870,7 +22794,10 @@
         "1186"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_12": {
     "study": "soep-pre",
@@ -21923,7 +22850,10 @@
         "1186"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_12": {
     "study": "soep-pre",
@@ -21972,7 +22902,10 @@
         "1186"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_12": {
     "study": "soep-pre",
@@ -22013,7 +22946,10 @@
         "1186"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f96_13": {
     "study": "soep-pre",
@@ -22038,7 +22974,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f97_13": {
     "study": "soep-pre",
@@ -22083,7 +23022,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f98_13": {
     "study": "soep-pre",
@@ -22124,7 +23066,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f99_13": {
     "study": "soep-pre",
@@ -22177,7 +23122,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f100_13": {
     "study": "soep-pre",
@@ -22226,7 +23174,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f101_13": {
     "study": "soep-pre",
@@ -22267,7 +23218,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f102_1": {
     "study": "soep-pre",
@@ -22304,7 +23258,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f102_2": {
     "study": "soep-pre",
@@ -22373,7 +23330,10 @@
         "377"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_1": {
     "study": "soep-pre",
@@ -22398,7 +23358,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_1": {
     "study": "soep-pre",
@@ -22443,7 +23406,10 @@
         "490"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_1": {
     "study": "soep-pre",
@@ -22748,7 +23714,10 @@
         "490"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_2": {
     "study": "soep-pre",
@@ -22773,7 +23742,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_2": {
     "study": "soep-pre",
@@ -22818,7 +23790,10 @@
         "701"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_2": {
     "study": "soep-pre",
@@ -23107,7 +24082,10 @@
         "701"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_3": {
     "study": "soep-pre",
@@ -23132,7 +24110,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_3": {
     "study": "soep-pre",
@@ -23177,7 +24158,10 @@
         "1014"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_3": {
     "study": "soep-pre",
@@ -23446,7 +24430,10 @@
         "1014"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_4": {
     "study": "soep-pre",
@@ -23471,7 +24458,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_4": {
     "study": "soep-pre",
@@ -23516,7 +24506,10 @@
         "1133"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_4": {
     "study": "soep-pre",
@@ -23681,7 +24674,10 @@
         "1133"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_5": {
     "study": "soep-pre",
@@ -23706,7 +24702,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_5": {
     "study": "soep-pre",
@@ -23751,7 +24750,10 @@
         "1174"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_5": {
     "study": "soep-pre",
@@ -23840,7 +24842,10 @@
         "1174"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_6": {
     "study": "soep-pre",
@@ -23865,7 +24870,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_6": {
     "study": "soep-pre",
@@ -23910,7 +24918,10 @@
         "1185"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_6": {
     "study": "soep-pre",
@@ -23959,7 +24970,10 @@
         "1185"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_7": {
     "study": "soep-pre",
@@ -23984,7 +24998,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_7": {
     "study": "soep-pre",
@@ -24029,7 +25046,10 @@
         "1186"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_7": {
     "study": "soep-pre",
@@ -24074,7 +25094,10 @@
         "1186"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_8": {
     "study": "soep-pre",
@@ -24099,7 +25122,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_8": {
     "study": "soep-pre",
@@ -24144,7 +25170,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_8": {
     "study": "soep-pre",
@@ -24185,7 +25214,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_9": {
     "study": "soep-pre",
@@ -24210,7 +25242,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_9": {
     "study": "soep-pre",
@@ -24255,7 +25290,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_9": {
     "study": "soep-pre",
@@ -24296,7 +25334,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_10": {
     "study": "soep-pre",
@@ -24321,7 +25362,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_10": {
     "study": "soep-pre",
@@ -24366,7 +25410,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_10": {
     "study": "soep-pre",
@@ -24407,7 +25454,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_11": {
     "study": "soep-pre",
@@ -24432,7 +25482,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_11": {
     "study": "soep-pre",
@@ -24477,7 +25530,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_11": {
     "study": "soep-pre",
@@ -24518,7 +25574,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f105_12": {
     "study": "soep-pre",
@@ -24543,7 +25602,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f106_12": {
     "study": "soep-pre",
@@ -24588,7 +25650,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f107_12": {
     "study": "soep-pre",
@@ -24629,7 +25694,10 @@
         "1187"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f108": {
     "study": "soep-pre",
@@ -24682,7 +25750,10 @@
         "490"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f109_1": {
     "study": "soep-pre",
@@ -24735,7 +25806,10 @@
         "714"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f109_2": {
     "study": "soep-pre",
@@ -24788,7 +25862,10 @@
         "806"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f109_3": {
     "study": "soep-pre",
@@ -24841,7 +25918,10 @@
         "714"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f109_4": {
     "study": "soep-pre",
@@ -24894,7 +25974,10 @@
         "714"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f109_5": {
     "study": "soep-pre",
@@ -24947,7 +26030,10 @@
         "714"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f109_6": {
     "study": "soep-pre",
@@ -25000,7 +26086,10 @@
         "714"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f109_7": {
     "study": "soep-pre",
@@ -25053,7 +26142,10 @@
         "714"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f109_8": {
     "study": "soep-pre",
@@ -25106,7 +26198,10 @@
         "714"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f109_9": {
     "study": "soep-pre",
@@ -25159,7 +26254,10 @@
         "816"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f109_10": {
     "study": "soep-pre",
@@ -25212,7 +26310,10 @@
         "816"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f109_11": {
     "study": "soep-pre",
@@ -25265,7 +26366,10 @@
         "714"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f110": {
     "study": "soep-pre",
@@ -25306,7 +26410,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f111": {
     "study": "soep-pre",
@@ -25347,7 +26454,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f112_o": {
     "study": "soep-pre",
@@ -25372,7 +26482,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f113": {
     "study": "soep-pre",
@@ -25413,7 +26526,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f114_o": {
     "study": "soep-pre",
@@ -25438,7 +26554,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f115": {
     "study": "soep-pre",
@@ -25483,7 +26602,10 @@
         "211"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f116_o": {
     "study": "soep-pre",
@@ -25508,7 +26630,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f117": {
     "study": "soep-pre",
@@ -25553,7 +26678,10 @@
         "211"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f118_o": {
     "study": "soep-pre",
@@ -25578,7 +26706,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f119": {
     "study": "soep-pre",
@@ -25623,7 +26754,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f120": {
     "study": "soep-pre",
@@ -25668,7 +26802,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f121_o": {
     "study": "soep-pre",
@@ -25693,7 +26830,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f122": {
     "study": "soep-pre",
@@ -25738,7 +26878,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f123_o": {
     "study": "soep-pre",
@@ -25763,7 +26906,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f124": {
     "study": "soep-pre",
@@ -25808,7 +26954,10 @@
         "252"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f125_o": {
     "study": "soep-pre",
@@ -25833,7 +26982,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f126": {
     "study": "soep-pre",
@@ -25878,7 +27030,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f127": {
     "study": "soep-pre",
@@ -25923,7 +27078,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f128_o": {
     "study": "soep-pre",
@@ -25948,7 +27106,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f129": {
     "study": "soep-pre",
@@ -25993,7 +27154,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f130_o": {
     "study": "soep-pre",
@@ -26018,7 +27182,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f131": {
     "study": "soep-pre",
@@ -26063,7 +27230,10 @@
         "265"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f132_o": {
     "study": "soep-pre",
@@ -26088,7 +27258,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f133_1": {
     "study": "soep-pre",
@@ -26145,7 +27318,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f134_1": {
     "study": "soep-pre",
@@ -26202,7 +27378,10 @@
         "999"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f135_1": {
     "study": "soep-pre",
@@ -26259,7 +27438,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f136": {
     "study": "soep-pre",
@@ -26308,7 +27490,10 @@
         "999"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f137_1": {
     "study": "soep-pre",
@@ -26365,7 +27550,10 @@
         "999"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f137_2": {
     "study": "soep-pre",
@@ -26422,7 +27610,10 @@
         "999"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f137_3": {
     "study": "soep-pre",
@@ -26479,7 +27670,10 @@
         "999"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f138": {
     "study": "soep-pre",
@@ -26528,7 +27722,10 @@
         "999"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f139": {
     "study": "soep-pre",
@@ -26577,7 +27774,10 @@
         "999"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f140": {
     "study": "soep-pre",
@@ -26622,7 +27822,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f141_o": {
     "study": "soep-pre",
@@ -26647,7 +27850,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f142": {
     "study": "soep-pre",
@@ -26692,7 +27898,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f143_o": {
     "study": "soep-pre",
@@ -26717,7 +27926,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f144": {
     "study": "soep-pre",
@@ -26762,7 +27974,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f145_o": {
     "study": "soep-pre",
@@ -26787,7 +28002,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f146": {
     "study": "soep-pre",
@@ -26832,7 +28050,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f147_o": {
     "study": "soep-pre",
@@ -26857,7 +28078,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f148_1": {
     "study": "soep-pre",
@@ -26910,7 +28134,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f149_1": {
     "study": "soep-pre",
@@ -26963,7 +28190,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f150_1": {
     "study": "soep-pre",
@@ -27016,7 +28246,10 @@
         "288"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f151_1": {
     "study": "soep-pre",
@@ -27069,7 +28302,10 @@
         "503"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f152": {
     "study": "soep-pre",
@@ -27126,7 +28362,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f153": {
     "study": "soep-pre",
@@ -27183,7 +28422,10 @@
         "288"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f154": {
     "study": "soep-pre",
@@ -27240,7 +28482,10 @@
         "288"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f155": {
     "study": "soep-pre",
@@ -27289,7 +28534,10 @@
         "288"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f156_1": {
     "study": "soep-pre",
@@ -27334,7 +28582,10 @@
         "756"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f156_2": {
     "study": "soep-pre",
@@ -27379,7 +28630,10 @@
         "756"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f157": {
     "study": "soep-pre",
@@ -27424,7 +28678,10 @@
         "999"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f158_1": {
     "study": "soep-pre",
@@ -27449,7 +28706,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f158_2": {
     "study": "soep-pre",
@@ -27474,7 +28734,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f158_3": {
     "study": "soep-pre",
@@ -27499,7 +28762,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f159": {
     "study": "soep-pre",
@@ -27544,7 +28810,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f160": {
     "study": "soep-pre",
@@ -27589,7 +28858,10 @@
         "698"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f161_1": {
     "study": "soep-pre",
@@ -27774,7 +29046,10 @@
         "949"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_1": {
     "study": "soep-pre",
@@ -27823,7 +29098,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_2": {
     "study": "soep-pre",
@@ -27872,7 +29150,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_3": {
     "study": "soep-pre",
@@ -27921,7 +29202,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_4": {
     "study": "soep-pre",
@@ -27970,7 +29254,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_5": {
     "study": "soep-pre",
@@ -28019,7 +29306,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_6": {
     "study": "soep-pre",
@@ -28068,7 +29358,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_7": {
     "study": "soep-pre",
@@ -28117,7 +29410,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_8": {
     "study": "soep-pre",
@@ -28166,7 +29462,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_9": {
     "study": "soep-pre",
@@ -28215,7 +29514,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_10": {
     "study": "soep-pre",
@@ -28264,7 +29566,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_11": {
     "study": "soep-pre",
@@ -28313,7 +29618,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_12": {
     "study": "soep-pre",
@@ -28362,7 +29670,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f162_13": {
     "study": "soep-pre",
@@ -28411,7 +29722,10 @@
         "648"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_1": {
     "study": "soep-pre",
@@ -28708,7 +30022,10 @@
         "699"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_2": {
     "study": "soep-pre",
@@ -28933,7 +30250,10 @@
         "874"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_3": {
     "study": "soep-pre",
@@ -29082,7 +30402,10 @@
         "1069"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_4": {
     "study": "soep-pre",
@@ -29131,7 +30454,10 @@
         "1178"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_5": {
     "study": "soep-pre",
@@ -29180,7 +30506,10 @@
         "1182"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_6": {
     "study": "soep-pre",
@@ -29245,7 +30574,10 @@
         "1175"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_7": {
     "study": "soep-pre",
@@ -29338,7 +30670,10 @@
         "1133"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_8": {
     "study": "soep-pre",
@@ -29407,7 +30742,10 @@
         "1163"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_9": {
     "study": "soep-pre",
@@ -29460,7 +30798,10 @@
         "1171"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_10": {
     "study": "soep-pre",
@@ -29529,7 +30870,10 @@
         "1167"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_11": {
     "study": "soep-pre",
@@ -29618,7 +30962,10 @@
         "1149"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_12": {
     "study": "soep-pre",
@@ -29655,7 +31002,10 @@
         "1184"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f163_13": {
     "study": "soep-pre",
@@ -29708,7 +31058,10 @@
         "1172"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f164_1": {
     "study": "soep-pre",
@@ -29745,7 +31098,10 @@
         "1041"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f164_2": {
     "study": "soep-pre",
@@ -29782,7 +31138,10 @@
         "1122"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f164_3": {
     "study": "soep-pre",
@@ -29819,7 +31178,10 @@
         "1054"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f164_4": {
     "study": "soep-pre",
@@ -29856,7 +31218,10 @@
         "557"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f164_5": {
     "study": "soep-pre",
@@ -29893,7 +31258,10 @@
         "1150"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f165": {
     "study": "soep-pre",
@@ -29938,7 +31306,10 @@
         "576"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f166_1": {
     "study": "soep-pre",
@@ -30263,7 +31634,10 @@
         "861"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f167": {
     "study": "soep-pre",
@@ -30308,7 +31682,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f168_1": {
     "study": "soep-pre",
@@ -30441,7 +31818,10 @@
         "1157"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f168_2": {
     "study": "soep-pre",
@@ -30622,7 +32002,10 @@
         "1120"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f168_ka": {
     "study": "soep-pre",
@@ -30659,7 +32042,10 @@
         "1099"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f169": {
     "study": "soep-pre",
@@ -30704,7 +32090,10 @@
         "851"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f170_1": {
     "study": "soep-pre",
@@ -30841,7 +32230,10 @@
         "1137"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f171": {
     "study": "soep-pre",
@@ -30882,7 +32274,10 @@
         "851"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f172": {
     "study": "soep-pre",
@@ -30927,7 +32322,10 @@
         "828"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f173_1": {
     "study": "soep-pre",
@@ -31064,7 +32462,10 @@
         "1140"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f175": {
     "study": "soep-pre",
@@ -31109,7 +32510,10 @@
         "855"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f176_1": {
     "study": "soep-pre",
@@ -31234,7 +32638,10 @@
         "1153"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f177": {
     "study": "soep-pre",
@@ -31279,7 +32686,10 @@
         "855"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f178_1": {
     "study": "soep-pre",
@@ -31344,7 +32754,10 @@
         "1176"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f179": {
     "study": "soep-pre",
@@ -31389,7 +32802,10 @@
         "855"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f180_1": {
     "study": "soep-pre",
@@ -31430,7 +32846,10 @@
         "1183"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f181": {
     "study": "soep-pre",
@@ -31475,7 +32894,10 @@
         "855"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f182_1": {
     "study": "soep-pre",
@@ -31520,7 +32942,10 @@
         "1186"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f183": {
     "study": "soep-pre",
@@ -31565,7 +32990,10 @@
         "855"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f184_1": {
     "study": "soep-pre",
@@ -31622,7 +33050,10 @@
         "1182"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f185": {
     "study": "soep-pre",
@@ -31679,7 +33110,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f186_1": {
     "study": "soep-pre",
@@ -31732,7 +33166,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f186_2": {
     "study": "soep-pre",
@@ -31785,7 +33222,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f186_3": {
     "study": "soep-pre",
@@ -31838,7 +33278,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f187": {
     "study": "soep-pre",
@@ -31883,7 +33326,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f188": {
     "study": "soep-pre",
@@ -31932,7 +33378,10 @@
         "914"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f189_1": {
     "study": "soep-pre",
@@ -31977,7 +33426,10 @@
         "914"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f189_2": {
     "study": "soep-pre",
@@ -32022,7 +33474,10 @@
         "914"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f189_3": {
     "study": "soep-pre",
@@ -32067,7 +33522,10 @@
         "914"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f189_4": {
     "study": "soep-pre",
@@ -32112,7 +33570,10 @@
         "914"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f189_5": {
     "study": "soep-pre",
@@ -32157,7 +33618,10 @@
         "914"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f190_1": {
     "study": "soep-pre",
@@ -32266,7 +33730,10 @@
         "965"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f190_2": {
     "study": "soep-pre",
@@ -32383,7 +33850,10 @@
         "1041"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f190_3": {
     "study": "soep-pre",
@@ -32472,7 +33942,10 @@
         "1093"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f190_4": {
     "study": "soep-pre",
@@ -32557,7 +34030,10 @@
         "1072"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f190_5": {
     "study": "soep-pre",
@@ -32642,7 +34118,10 @@
         "1041"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f191": {
     "study": "soep-pre",
@@ -32683,7 +34162,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f192": {
     "study": "soep-pre",
@@ -32724,7 +34206,10 @@
         "1007"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f193": {
     "study": "soep-pre",
@@ -32769,7 +34254,10 @@
         "223"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f194": {
     "study": "soep-pre",
@@ -32826,7 +34314,10 @@
         "508"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f195_o": {
     "study": "soep-pre",
@@ -32851,7 +34342,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f196_1": {
     "study": "soep-pre",
@@ -32908,7 +34402,10 @@
         "596"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f197_1": {
     "study": "soep-pre",
@@ -32989,7 +34486,10 @@
         "339"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f198": {
     "study": "soep-pre",
@@ -33046,7 +34546,10 @@
         "339"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f199_1": {
     "study": "soep-pre",
@@ -33123,7 +34626,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f200": {
     "study": "soep-pre",
@@ -33176,7 +34682,10 @@
         "158"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "f201": {
     "study": "soep-pre",
@@ -33229,7 +34738,10 @@
         "423"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "vor_iat": {
     "study": "soep-pre",
@@ -33254,7 +34766,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "eb_iat_1": {
     "study": "soep-pre",
@@ -33315,7 +34830,10 @@
         "1030"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "eb_iat_2": {
     "study": "soep-pre",
@@ -33376,7 +34894,10 @@
         "1030"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "eb_iat_3_o": {
     "study": "soep-pre",
@@ -33401,7 +34922,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "nach_iat": {
     "study": "soep-pre",
@@ -33426,7 +34950,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "note": {
     "study": "soep-pre",
@@ -33451,7 +34978,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "fradau": {
     "study": "soep-pre",
@@ -33488,7 +35018,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "monat": {
     "study": "soep-pre",
@@ -33525,7 +35058,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "tag": {
     "study": "soep-pre",
@@ -33562,7 +35098,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "bula": {
     "study": "soep-pre",
@@ -33599,7 +35138,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "bik": {
     "study": "soep-pre",
@@ -33636,7 +35178,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "pgew": {
     "study": "soep-pre",
@@ -33673,7 +35218,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "hgew": {
     "study": "soep-pre",
@@ -33710,7 +35258,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "sex_int": {
     "study": "soep-pre",
@@ -33747,7 +35298,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "geburt_int": {
     "study": "soep-pre",
@@ -33784,7 +35338,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "eintritt_int": {
     "study": "soep-pre",
@@ -33821,7 +35378,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "beruf_int": {
     "study": "soep-pre",
@@ -33886,7 +35446,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "schule_int": {
     "study": "soep-pre",
@@ -33935,7 +35498,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "famstand_int": {
     "study": "soep-pre",
@@ -33980,7 +35546,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "beruf2_int": {
     "study": "soep-pre",
@@ -34005,7 +35574,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "subject": {
     "study": "soep-pre",
@@ -34030,7 +35602,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_meanrt": {
     "study": "soep-pre",
@@ -34069,7 +35644,10 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_ntrials": {
     "study": "soep-pre",
@@ -34108,7 +35686,10 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_pdscore": {
     "study": "soep-pre",
@@ -34147,7 +35728,10 @@
         "974"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_tdscore": {
     "study": "soep-pre",
@@ -34186,7 +35770,10 @@
         "974"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_dscore": {
     "study": "soep-pre",
@@ -34225,7 +35812,10 @@
         "974"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_pmscore": {
     "study": "soep-pre",
@@ -34264,7 +35854,10 @@
         "974"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_tmscore": {
     "study": "soep-pre",
@@ -34303,7 +35896,10 @@
         "974"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_mscore": {
     "study": "soep-pre",
@@ -34342,7 +35938,10 @@
         "974"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_pct_300": {
     "study": "soep-pre",
@@ -34381,7 +35980,10 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_pct_400": {
     "study": "soep-pre",
@@ -34420,7 +36022,10 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_pct_10k": {
     "study": "soep-pre",
@@ -34459,7 +36064,10 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "assertive_errorpct": {
     "study": "soep-pre",
@@ -34498,7 +36106,10 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_meanrt": {
     "study": "soep-pre",
@@ -34537,7 +36148,10 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_ntrials": {
     "study": "soep-pre",
@@ -34576,7 +36190,10 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_pdscore": {
     "study": "soep-pre",
@@ -34615,7 +36232,10 @@
         "964"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_tdscore": {
     "study": "soep-pre",
@@ -34654,7 +36274,10 @@
         "964"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_dscore": {
     "study": "soep-pre",
@@ -34693,7 +36316,10 @@
         "964"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_pmscore": {
     "study": "soep-pre",
@@ -34732,7 +36358,10 @@
         "964"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_tmscore": {
     "study": "soep-pre",
@@ -34771,7 +36400,10 @@
         "964"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_mscore": {
     "study": "soep-pre",
@@ -34810,7 +36442,10 @@
         "964"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_pct_300": {
     "study": "soep-pre",
@@ -34849,7 +36484,10 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_pct_400": {
     "study": "soep-pre",
@@ -34888,7 +36526,10 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_pct_10k": {
     "study": "soep-pre",
@@ -34927,7 +36568,10 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   },
   "warm_errorpct": {
     "study": "soep-pre",
@@ -34966,6 +36610,9 @@
         "957"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2011"
   }
 }

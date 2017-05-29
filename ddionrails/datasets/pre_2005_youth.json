@@ -34,7 +34,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "quote": {
     "study": "soep-pre",
@@ -75,7 +78,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "name": {
     "study": "soep-pre",
@@ -100,7 +106,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "jsp2": {
     "study": "soep-pre",
@@ -125,7 +134,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "jsch4a": {
     "study": "soep-pre",
@@ -162,7 +174,10 @@
         "213"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "jsch4b": {
     "study": "soep-pre",
@@ -199,7 +214,10 @@
         "213"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "jsch4c": {
     "study": "soep-pre",
@@ -236,7 +254,10 @@
         "213"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w01": {
     "study": "soep-pre",
@@ -273,7 +294,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w02": {
     "study": "soep-pre",
@@ -310,7 +334,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w03": {
     "study": "soep-pre",
@@ -347,7 +374,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w04": {
     "study": "soep-pre",
@@ -384,7 +414,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w05": {
     "study": "soep-pre",
@@ -421,7 +454,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w06": {
     "study": "soep-pre",
@@ -458,7 +494,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w07": {
     "study": "soep-pre",
@@ -495,7 +534,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w08": {
     "study": "soep-pre",
@@ -532,7 +574,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w09": {
     "study": "soep-pre",
@@ -569,7 +614,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w10": {
     "study": "soep-pre",
@@ -606,7 +654,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w11": {
     "study": "soep-pre",
@@ -643,7 +694,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w12": {
     "study": "soep-pre",
@@ -680,7 +734,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w13": {
     "study": "soep-pre",
@@ -717,7 +774,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w14": {
     "study": "soep-pre",
@@ -754,7 +814,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w15": {
     "study": "soep-pre",
@@ -791,7 +854,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w16": {
     "study": "soep-pre",
@@ -828,7 +894,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w17": {
     "study": "soep-pre",
@@ -865,7 +934,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w18": {
     "study": "soep-pre",
@@ -902,7 +974,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w19": {
     "study": "soep-pre",
@@ -939,7 +1014,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w20": {
     "study": "soep-pre",
@@ -976,7 +1054,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z01": {
     "study": "soep-pre",
@@ -1013,7 +1094,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z02": {
     "study": "soep-pre",
@@ -1050,7 +1134,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z03": {
     "study": "soep-pre",
@@ -1087,7 +1174,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z04": {
     "study": "soep-pre",
@@ -1124,7 +1214,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z05": {
     "study": "soep-pre",
@@ -1161,7 +1254,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z06": {
     "study": "soep-pre",
@@ -1198,7 +1294,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z07": {
     "study": "soep-pre",
@@ -1235,7 +1334,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z08": {
     "study": "soep-pre",
@@ -1272,7 +1374,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z09": {
     "study": "soep-pre",
@@ -1309,7 +1414,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z10": {
     "study": "soep-pre",
@@ -1346,7 +1454,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z11": {
     "study": "soep-pre",
@@ -1385,7 +1496,10 @@
         "2"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z12": {
     "study": "soep-pre",
@@ -1422,7 +1536,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z13": {
     "study": "soep-pre",
@@ -1459,7 +1576,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z14": {
     "study": "soep-pre",
@@ -1496,7 +1616,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z15": {
     "study": "soep-pre",
@@ -1533,7 +1656,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z16": {
     "study": "soep-pre",
@@ -1570,7 +1696,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z17": {
     "study": "soep-pre",
@@ -1607,7 +1736,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z18": {
     "study": "soep-pre",
@@ -1644,7 +1776,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z19": {
     "study": "soep-pre",
@@ -1681,7 +1816,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z20": {
     "study": "soep-pre",
@@ -1718,7 +1856,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f01": {
     "study": "soep-pre",
@@ -1755,7 +1896,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f02": {
     "study": "soep-pre",
@@ -1792,7 +1936,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f03": {
     "study": "soep-pre",
@@ -1829,7 +1976,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f04": {
     "study": "soep-pre",
@@ -1866,7 +2016,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f05": {
     "study": "soep-pre",
@@ -1903,7 +2056,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f06": {
     "study": "soep-pre",
@@ -1940,7 +2096,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f07": {
     "study": "soep-pre",
@@ -1977,7 +2136,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f08": {
     "study": "soep-pre",
@@ -2014,7 +2176,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f09": {
     "study": "soep-pre",
@@ -2051,7 +2216,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f10": {
     "study": "soep-pre",
@@ -2088,7 +2256,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f11": {
     "study": "soep-pre",
@@ -2125,7 +2296,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f12": {
     "study": "soep-pre",
@@ -2162,7 +2336,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f13": {
     "study": "soep-pre",
@@ -2199,7 +2376,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f14": {
     "study": "soep-pre",
@@ -2236,7 +2416,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f15": {
     "study": "soep-pre",
@@ -2273,7 +2456,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f16": {
     "study": "soep-pre",
@@ -2310,7 +2496,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f17": {
     "study": "soep-pre",
@@ -2347,7 +2536,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f18": {
     "study": "soep-pre",
@@ -2384,7 +2576,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f19": {
     "study": "soep-pre",
@@ -2421,7 +2616,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f20": {
     "study": "soep-pre",
@@ -2458,7 +2656,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywoelt": {
     "study": "soep-pre",
@@ -2495,7 +2696,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywozim": {
     "study": "soep-pre",
@@ -2540,7 +2744,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywowei": {
     "study": "soep-pre",
@@ -2585,7 +2792,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byvdeig": {
     "study": "soep-pre",
@@ -2626,7 +2836,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byvdart": {
     "study": "soep-pre",
@@ -2671,7 +2884,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byjbfrue": {
     "study": "soep-pre",
@@ -2712,7 +2928,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byjbalt": {
     "study": "soep-pre",
@@ -2749,7 +2968,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byjbgrun": {
     "study": "soep-pre",
@@ -2798,7 +3020,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bytgeld": {
     "study": "soep-pre",
@@ -2839,7 +3064,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bytgeldw": {
     "study": "soep-pre",
@@ -2876,7 +3104,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bytgeldm": {
     "study": "soep-pre",
@@ -2913,7 +3144,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byspar": {
     "study": "soep-pre",
@@ -2954,7 +3188,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bysparm": {
     "study": "soep-pre",
@@ -2991,7 +3228,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bysparun": {
     "study": "soep-pre",
@@ -3028,7 +3268,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywiva": {
     "study": "soep-pre",
@@ -3077,7 +3320,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywimu": {
     "study": "soep-pre",
@@ -3126,7 +3372,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywibs": {
     "study": "soep-pre",
@@ -3179,7 +3428,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywivw": {
     "study": "soep-pre",
@@ -3232,7 +3484,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywiffr": {
     "study": "soep-pre",
@@ -3285,7 +3540,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywibfr": {
     "study": "soep-pre",
@@ -3338,7 +3596,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywilehr": {
     "study": "soep-pre",
@@ -3387,7 +3648,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywiclq": {
     "study": "soep-pre",
@@ -3436,7 +3700,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywison": {
     "study": "soep-pre",
@@ -3489,7 +3756,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bystrva": {
     "study": "soep-pre",
@@ -3542,7 +3812,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bystrmu": {
     "study": "soep-pre",
@@ -3595,7 +3868,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bystrbs": {
     "study": "soep-pre",
@@ -3648,7 +3924,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bystrffr": {
     "study": "soep-pre",
@@ -3705,7 +3984,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bystrbfr": {
     "study": "soep-pre",
@@ -3762,7 +4044,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz01mu": {
     "study": "soep-pre",
@@ -3815,7 +4100,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz01va": {
     "study": "soep-pre",
@@ -3872,7 +4160,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz02mu": {
     "study": "soep-pre",
@@ -3925,7 +4216,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz02va": {
     "study": "soep-pre",
@@ -3982,7 +4276,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz03mu": {
     "study": "soep-pre",
@@ -4035,7 +4332,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz03va": {
     "study": "soep-pre",
@@ -4092,7 +4392,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz04mu": {
     "study": "soep-pre",
@@ -4149,7 +4452,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz04va": {
     "study": "soep-pre",
@@ -4206,7 +4512,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz05mu": {
     "study": "soep-pre",
@@ -4263,7 +4572,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz05va": {
     "study": "soep-pre",
@@ -4320,7 +4632,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz06mu": {
     "study": "soep-pre",
@@ -4377,7 +4692,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz06va": {
     "study": "soep-pre",
@@ -4434,7 +4752,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz07mu": {
     "study": "soep-pre",
@@ -4491,7 +4812,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz07va": {
     "study": "soep-pre",
@@ -4548,7 +4872,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz08mu": {
     "study": "soep-pre",
@@ -4605,7 +4932,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz08va": {
     "study": "soep-pre",
@@ -4662,7 +4992,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz09mu": {
     "study": "soep-pre",
@@ -4719,7 +5052,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybz09va": {
     "study": "soep-pre",
@@ -4776,7 +5112,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzfern": {
     "study": "soep-pre",
@@ -4829,7 +5168,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzpc": {
     "study": "soep-pre",
@@ -4878,7 +5220,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzmush": {
     "study": "soep-pre",
@@ -4927,7 +5272,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzmuss": {
     "study": "soep-pre",
@@ -4976,7 +5324,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzsprt": {
     "study": "soep-pre",
@@ -5025,7 +5376,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfztanz": {
     "study": "soep-pre",
@@ -5074,7 +5428,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfztech": {
     "study": "soep-pre",
@@ -5123,7 +5480,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzlese": {
     "study": "soep-pre",
@@ -5172,7 +5532,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzabh": {
     "study": "soep-pre",
@@ -5225,7 +5588,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzmffr": {
     "study": "soep-pre",
@@ -5278,7 +5644,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzmbfr": {
     "study": "soep-pre",
@@ -5331,7 +5700,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzmclq": {
     "study": "soep-pre",
@@ -5380,7 +5752,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzjzfz": {
     "study": "soep-pre",
@@ -5433,7 +5808,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzvere": {
     "study": "soep-pre",
@@ -5486,7 +5864,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfzehre": {
     "study": "soep-pre",
@@ -5535,7 +5916,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bymussp": {
     "study": "soep-pre",
@@ -5572,7 +5956,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bymusart": {
     "study": "soep-pre",
@@ -5625,7 +6012,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bymusmw": {
     "study": "soep-pre",
@@ -5682,7 +6072,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bymusalt": {
     "study": "soep-pre",
@@ -5719,7 +6112,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bymusunt": {
     "study": "soep-pre",
@@ -5760,7 +6156,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bysprttr": {
     "study": "soep-pre",
@@ -5797,7 +6196,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bysprtal": {
     "study": "soep-pre",
@@ -5834,7 +6236,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bysprtmw": {
     "study": "soep-pre",
@@ -5899,7 +6304,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bysprtwe": {
     "study": "soep-pre",
@@ -5944,7 +6352,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byschbes": {
     "study": "soep-pre",
@@ -5989,7 +6400,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byschart": {
     "study": "soep-pre",
@@ -6038,7 +6452,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byschend": {
     "study": "soep-pre",
@@ -6075,7 +6492,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byschabs": {
     "study": "soep-pre",
@@ -6132,7 +6552,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byschzuk": {
     "study": "soep-pre",
@@ -6177,7 +6600,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byschzar": {
     "study": "soep-pre",
@@ -6230,7 +6656,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfmd1": {
     "study": "soep-pre",
@@ -6287,7 +6716,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byfmd2": {
     "study": "soep-pre",
@@ -6356,7 +6788,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byschaus": {
     "study": "soep-pre",
@@ -6397,7 +6832,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byschpri": {
     "study": "soep-pre",
@@ -6438,7 +6876,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byenkspr": {
     "study": "soep-pre",
@@ -6475,7 +6916,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byensspr": {
     "study": "soep-pre",
@@ -6512,7 +6956,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byensztg": {
     "study": "soep-pre",
@@ -6549,7 +6996,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byenthea": {
     "study": "soep-pre",
@@ -6586,7 +7036,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byenchor": {
     "study": "soep-pre",
@@ -6623,7 +7076,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byensprt": {
     "study": "soep-pre",
@@ -6660,7 +7116,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byensons": {
     "study": "soep-pre",
@@ -6697,7 +7156,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byennein": {
     "study": "soep-pre",
@@ -6738,7 +7200,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzfinsg": {
     "study": "soep-pre",
@@ -6811,7 +7276,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzfdeut": {
     "study": "soep-pre",
@@ -6888,7 +7356,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzfmath": {
     "study": "soep-pre",
@@ -6965,7 +7436,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzffmd1": {
     "study": "soep-pre",
@@ -7042,7 +7516,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byempfeh": {
     "study": "soep-pre",
@@ -7091,7 +7568,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byntdeut": {
     "study": "soep-pre",
@@ -7128,7 +7608,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byntmath": {
     "study": "soep-pre",
@@ -7165,7 +7648,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byntfmd1": {
     "study": "soep-pre",
@@ -7202,7 +7688,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byptdeut": {
     "study": "soep-pre",
@@ -7239,7 +7728,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byptmath": {
     "study": "soep-pre",
@@ -7276,7 +7768,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byptfmd1": {
     "study": "soep-pre",
@@ -7313,7 +7808,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bylkdeut": {
     "study": "soep-pre",
@@ -7354,7 +7852,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bylkmath": {
     "study": "soep-pre",
@@ -7395,7 +7896,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bylkfmd1": {
     "study": "soep-pre",
@@ -7436,7 +7940,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byklwdja": {
     "study": "soep-pre",
@@ -7473,7 +7980,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byklwd1": {
     "study": "soep-pre",
@@ -7510,7 +8020,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byklwd2": {
     "study": "soep-pre",
@@ -7547,7 +8060,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bynachhi": {
     "study": "soep-pre",
@@ -7584,7 +8100,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byelkuem": {
     "study": "soep-pre",
@@ -7629,7 +8148,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byelhaus": {
     "study": "soep-pre",
@@ -7674,7 +8196,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byeldiff": {
     "study": "soep-pre",
@@ -7719,7 +8244,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byelaben": {
     "study": "soep-pre",
@@ -7756,7 +8284,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byelspre": {
     "study": "soep-pre",
@@ -7793,7 +8324,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byellehr": {
     "study": "soep-pre",
@@ -7830,7 +8364,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byelvert": {
     "study": "soep-pre",
@@ -7867,7 +8404,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byelnida": {
     "study": "soep-pre",
@@ -7904,7 +8444,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byklausl": {
     "study": "soep-pre",
@@ -7957,7 +8500,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybaabge": {
     "study": "soep-pre",
@@ -7994,7 +8540,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybabgj": {
     "study": "soep-pre",
@@ -8043,7 +8592,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybabegl": {
     "study": "soep-pre",
@@ -8092,7 +8644,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybaleh": {
     "study": "soep-pre",
@@ -8141,7 +8696,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybabfs": {
     "study": "soep-pre",
@@ -8190,7 +8748,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybaprak": {
     "study": "soep-pre",
@@ -8239,7 +8800,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzaja": {
     "study": "soep-pre",
@@ -8280,7 +8844,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzaleh": {
     "study": "soep-pre",
@@ -8317,7 +8884,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzabfs": {
     "study": "soep-pre",
@@ -8354,7 +8924,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzafsc": {
     "study": "soep-pre",
@@ -8391,7 +8964,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzabea": {
     "study": "soep-pre",
@@ -8428,7 +9004,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzabak": {
     "study": "soep-pre",
@@ -8465,7 +9044,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzafh": {
     "study": "soep-pre",
@@ -8502,7 +9084,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzauni": {
     "study": "soep-pre",
@@ -8539,7 +9124,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byslbalt": {
     "study": "soep-pre",
@@ -8576,7 +9164,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byslbheu": {
     "study": "soep-pre",
@@ -8613,7 +9204,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bybwunja": {
     "study": "soep-pre",
@@ -8654,7 +9248,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzbinf": {
     "study": "soep-pre",
@@ -8703,7 +9300,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzbelt": {
     "study": "soep-pre",
@@ -8748,7 +9348,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzblas": {
     "study": "soep-pre",
@@ -8793,7 +9396,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzbbes": {
     "study": "soep-pre",
@@ -8842,7 +9448,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byzbrau": {
     "study": "soep-pre",
@@ -8887,7 +9496,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbsich": {
     "study": "soep-pre",
@@ -8932,7 +9544,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbeink": {
     "study": "soep-pre",
@@ -8977,7 +9592,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbauf": {
     "study": "soep-pre",
@@ -9022,7 +9640,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbane": {
     "study": "soep-pre",
@@ -9067,7 +9688,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbfrei": {
     "study": "soep-pre",
@@ -9112,7 +9736,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbint": {
     "study": "soep-pre",
@@ -9157,7 +9784,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbselb": {
     "study": "soep-pre",
@@ -9202,7 +9832,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbkont": {
     "study": "soep-pre",
@@ -9247,7 +9880,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbgsl": {
     "study": "soep-pre",
@@ -9296,7 +9932,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbgsnd": {
     "study": "soep-pre",
@@ -9341,7 +9980,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbfam": {
     "study": "soep-pre",
@@ -9386,7 +10028,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywbhelf": {
     "study": "soep-pre",
@@ -9431,7 +10076,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywaausp": {
     "study": "soep-pre",
@@ -9508,7 +10156,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywaerfa": {
     "study": "soep-pre",
@@ -9581,7 +10232,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywaarbp": {
     "study": "soep-pre",
@@ -9658,7 +10312,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywaberf": {
     "study": "soep-pre",
@@ -9735,7 +10392,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywaarbl": {
     "study": "soep-pre",
@@ -9808,7 +10468,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywazuru": {
     "study": "soep-pre",
@@ -9881,7 +10544,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywaselb": {
     "study": "soep-pre",
@@ -9954,7 +10620,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywaausl": {
     "study": "soep-pre",
@@ -10031,7 +10700,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywaheir": {
     "study": "soep-pre",
@@ -10112,7 +10784,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywapart": {
     "study": "soep-pre",
@@ -10185,7 +10860,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywakid1": {
     "study": "soep-pre",
@@ -10258,7 +10936,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bywakidm": {
     "study": "soep-pre",
@@ -10335,7 +11016,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bygebjah": {
     "study": "soep-pre",
@@ -10372,7 +11056,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byglpart": {
     "study": "soep-pre",
@@ -10417,7 +11104,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byglkind": {
     "study": "soep-pre",
@@ -10462,7 +11152,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byefflei": {
     "study": "soep-pre",
@@ -10511,7 +11204,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byefausn": {
     "study": "soep-pre",
@@ -10560,7 +11256,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byefint": {
     "study": "soep-pre",
@@ -10609,7 +11308,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byeffam": {
     "study": "soep-pre",
@@ -10658,7 +11360,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byeffach": {
     "study": "soep-pre",
@@ -10707,7 +11412,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byefgeld": {
     "study": "soep-pre",
@@ -10756,7 +11464,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byefsabs": {
     "study": "soep-pre",
@@ -10805,7 +11516,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byefhart": {
     "study": "soep-pre",
@@ -10854,7 +11568,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byefbez": {
     "study": "soep-pre",
@@ -10903,7 +11620,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byefpoli": {
     "study": "soep-pre",
@@ -10952,7 +11672,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byefmann": {
     "study": "soep-pre",
@@ -11001,7 +11724,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byefini": {
     "study": "soep-pre",
@@ -11050,7 +11776,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byesverl": {
     "study": "soep-pre",
@@ -11095,7 +11824,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byeserre": {
     "study": "soep-pre",
@@ -11144,7 +11876,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byesglue": {
     "study": "soep-pre",
@@ -11189,7 +11924,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byesand": {
     "study": "soep-pre",
@@ -11234,7 +11972,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byeshart": {
     "study": "soep-pre",
@@ -11279,7 +12020,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byeszwei": {
     "study": "soep-pre",
@@ -11328,7 +12072,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byessozu": {
     "study": "soep-pre",
@@ -11373,7 +12120,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byesfaeh": {
     "study": "soep-pre",
@@ -11418,7 +12168,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byeskntr": {
     "study": "soep-pre",
@@ -11463,7 +12216,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byesenga": {
     "study": "soep-pre",
@@ -11508,7 +12264,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byesvert": {
     "study": "soep-pre",
@@ -11553,7 +12312,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "byesfrem": {
     "study": "soep-pre",
@@ -11602,7 +12364,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bysex": {
     "study": "soep-pre",
@@ -11639,7 +12404,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "bioyear": {
     "study": "soep-pre",
@@ -11676,7 +12444,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w_sum": {
     "study": "soep-pre",
@@ -11713,7 +12484,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z_sum": {
     "study": "soep-pre",
@@ -11750,7 +12524,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f_sum": {
     "study": "soep-pre",
@@ -11787,7 +12564,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "summe": {
     "study": "soep-pre",
@@ -11824,7 +12604,10 @@
         "0"
       ]
     },
-    "scale": ""
+    "scale": "",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "w_sum_gr": {
     "study": "soep-pre",
@@ -11877,7 +12660,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "f_sum_gr": {
     "study": "soep-pre",
@@ -11930,7 +12716,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "z_sum_gr": {
     "study": "soep-pre",
@@ -11983,7 +12772,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "summe_gr": {
     "study": "soep-pre",
@@ -12040,7 +12832,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "terz_sum": {
     "study": "soep-pre",
@@ -12081,7 +12876,10 @@
         "2"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "terz_w": {
     "study": "soep-pre",
@@ -12122,7 +12920,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "terz_z": {
     "study": "soep-pre",
@@ -12163,7 +12964,10 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   },
   "terz_f": {
     "study": "soep-pre",
@@ -12204,6 +13008,9 @@
         "0"
       ]
     },
-    "scale": "cat"
+    "scale": "cat",
+    "analysis_unit": null,
+    "sub_type": null,
+    "period": "2005"
   }
 }
