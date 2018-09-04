@@ -1,4 +1,4 @@
 SOEP Pretest
 ============
 
-TODO: Marcel Hebing has to describing and documenting this.
+TODO: Marcel Hebing has to describing and documentating this.
