@@ -1,4 +1,4 @@
-study,dataset,variable,concept,item_old,questionnaire,question,item
+study,dataset,name,concept,item_old,questionnaire,question,item
 soep-pretest,pre_2001,pzuf01,pzuf01,,pre_2001,1,1
 soep-pretest,pre_2001,pzuf02,pzuf02,,pre_2001,1,2
 soep-pretest,pre_2001,pzuf03,pzuf03,,pre_2001,1,3

@@ -1,4 +1,4 @@
-"study","dataset","period","label"
+"study","name","period","label"
 "soep-pretest","pre_2004_online",2004,"Pilot study 2004, Pretest online"
 "soep-pretest","pre_2005_youth",2005,"""Youth"" Questionnaire and cognitive test. Pretest  for SOEP 2006. "
 "soep-pretest","pre_2005_1",2005,"Personality and daily routine. Behavioral experiments. Pretest June, Random"
